@@ -1,2700 +1,2880 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kodi TV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1217614,
+                "language": "C++",
+                "last_commit": "2026-08-19T11:35:00Z",
+                "owner": "xbmc",
+                "repo": "xbmc",
+                "stars": 21107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmartYouTubeTV",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 77243612,
+                "language": "JavaScript",
+                "last_commit": "2023-10-16T00:11:40Z",
+                "owner": "yuliskov",
+                "repo": "SmartTubeLegacy",
+                "stars": 4473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tv-samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192011831,
+                "language": "Kotlin",
+                "last_commit": "2026-07-22T14:24:49Z",
+                "owner": "android",
+                "repo": "tv-samples",
+                "stars": 1269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vineyard",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47880963,
+                "language": "Java",
+                "last_commit": "2018-01-04T17:44:14Z",
+                "owner": "hitherejoe",
+                "repo": "Vineyard",
+                "stars": 718
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AndroidTVMovieParadise",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225194766,
+                "language": "Java",
+                "last_commit": "2026-07-04T22:30:32Z",
+                "owner": "halilozel1903",
+                "repo": "AndroidTVMovieParadise",
+                "stars": 207
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":tv: Android TV"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Wear-os-samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192007253,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T07:08:24Z",
+                "owner": "android",
+                "repo": "wear-os-samples",
+                "stars": 1391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FORMWatchFace",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 28952201,
+                "language": "Java",
+                "last_commit": "2017-03-09T04:23:22Z",
+                "owner": "romannurik",
+                "repo": "FORMWatchFace",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twelveish",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 139753886,
+                "language": "Java",
+                "last_commit": "2021-02-12T22:30:53Z",
+                "owner": "LayoutXML",
+                "repo": "Twelveish",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wear-notify-for-reddit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22292873,
+                "language": "Java",
+                "last_commit": "2016-06-11T10:27:35Z",
+                "owner": "emmaguy",
+                "repo": "wear-notify-for-reddit",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smartalarm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115624146,
+                "language": "Java",
+                "last_commit": "2019-08-29T15:53:09Z",
+                "owner": "fridgecow",
+                "repo": "smartalarm",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":watch: Android Wear"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Android-mvp-architecture",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80192374,
+                "language": "Java",
+                "last_commit": "2024-04-16T15:28:00Z",
+                "owner": "janishar",
+                "repo": "android-mvp-architecture",
+                "stars": 4420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Archi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42318990,
+                "language": "Java",
+                "last_commit": "2019-10-03T12:13:37Z",
+                "owner": "ivacf",
+                "repo": "archi",
+                "stars": 3302
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-mvvm-architecture",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96517640,
+                "language": "Java",
+                "last_commit": "2024-04-16T15:26:34Z",
+                "owner": "janishar",
+                "repo": "android-mvvm-architecture",
+                "stars": 2951
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Foodium",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247669052,
+                "language": "Kotlin",
+                "last_commit": "2026-03-20T03:03:16Z",
+                "owner": "PatilShreyas",
+                "repo": "Foodium",
+                "stars": 2324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NotyKT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303164275,
+                "language": "Kotlin",
+                "last_commit": "2026-04-23T02:23:34Z",
+                "owner": "PatilShreyas",
+                "repo": "NotyKT",
+                "stars": 1768
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clean-Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250371727,
+                "language": "Kotlin",
+                "last_commit": "2024-03-13T10:09:56Z",
+                "owner": "mitchtabian",
+                "repo": "Clean-Notes",
+                "stars": 556
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Baking-App-Kotlin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270478922,
+                "language": "Kotlin",
+                "last_commit": "2021-08-24T15:52:34Z",
+                "owner": "Ezike",
+                "repo": "Baking-App-Kotlin",
+                "stars": 457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RestApiMVVM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165903115,
+                "language": "Java",
+                "last_commit": "2019-11-18T16:35:44Z",
+                "owner": "mitchtabian",
+                "repo": "RestApiMVVM",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Github Visualizer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265686465,
+                "language": "Kotlin",
+                "last_commit": "2021-04-21T11:44:11Z",
+                "owner": "dheerajkotwani",
+                "repo": "GithubVisualizer",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JetJoke",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668784864,
+                "language": "Kotlin",
+                "last_commit": "2026-08-11T21:17:22Z",
+                "owner": "swapnil-musale",
+                "repo": "JetJoke",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clean-MVP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170527378,
+                "language": "Kotlin",
+                "last_commit": "2019-02-13T15:55:58Z",
+                "owner": "carlosmacmar",
+                "repo": "clean-MVP",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":office: Architecture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Telegram",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13862381,
+                "language": "Java",
+                "last_commit": "2026-08-02T20:53:20Z",
+                "owner": "DrKLO",
+                "repo": "Telegram",
+                "stars": 29734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Signal-Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2990192,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T18:34:25Z",
+                "owner": "signalapp",
+                "repo": "Signal-Android",
+                "stars": 29219
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jetchat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "K-9",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1326671,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T11:53:25Z",
+                "owner": "thunderbird",
+                "repo": "thunderbird-android",
+                "stars": 13876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tutanota",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22344874,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:42:30Z",
+                "owner": "tutao",
+                "repo": "tutanota",
+                "stars": 7863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qksms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31138452,
+                "language": "Kotlin",
+                "last_commit": "2023-06-02T16:19:16Z",
+                "owner": "moezbhatti",
+                "repo": "qksms",
+                "stars": 4590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FairEmail",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143298715,
+                "language": "Java",
+                "last_commit": "2026-08-18T15:43:52Z",
+                "owner": "M66B",
+                "repo": "FairEmail",
+                "stars": 4562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kdeconnect-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42728401,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T21:56:08Z",
+                "owner": "KDE",
+                "repo": "kdeconnect-android",
+                "stars": 1417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proton Mail for Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 780853968,
+                "language": "Kotlin",
+                "last_commit": "2026-07-17T15:12:19Z",
+                "owner": "ProtonMail",
+                "repo": "android-mail",
+                "stars": 969
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jetpack-Compose-WhatsApp-Clone",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261391043,
+                "language": "Kotlin",
+                "last_commit": "2024-02-19T00:41:40Z",
+                "owner": "MindorksOpenSource",
+                "repo": "Jetpack-Compose-WhatsApp-Clone",
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "forem-Dev",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138357951,
+                "language": "Kotlin",
+                "last_commit": "2026-02-12T14:29:16Z",
+                "owner": "forem",
+                "repo": "DEV-Android",
+                "stars": 423
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tindroid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50814863,
+                "language": "Java",
+                "last_commit": "2026-07-12T11:30:28Z",
+                "owner": "tinode",
+                "repo": "tindroid",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Irccloud-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5196635,
+                "language": "Java",
+                "last_commit": "2026-04-28T15:19:00Z",
+                "owner": "irccloud",
+                "repo": "android",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wire-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269319743,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T11:53:42Z",
+                "owner": "wireapp",
+                "repo": "wire-android",
+                "stars": 254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Replify-Messenger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278366923,
+                "language": "Kotlin",
+                "last_commit": "2020-07-10T08:51:35Z",
+                "owner": "vidit135g",
+                "repo": "Replify-Messenger",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":iphone: Communication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IReader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425288628,
+                "language": "Kotlin",
+                "last_commit": "2026-08-06T16:50:22Z",
+                "owner": "IReaderorg",
+                "repo": "IReader",
+                "stars": 922
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bookdash-android-app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46615164,
+                "language": "Java",
+                "last_commit": "2025-02-12T15:20:33Z",
+                "owner": "bookdash",
+                "repo": "bookdash-android-app",
+                "stars": 712
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170987604,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T05:05:17Z",
+                "owner": "hoc081098",
+                "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hummingbird-for-Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25658608,
+                "language": "Java",
+                "last_commit": "2015-06-20T17:10:33Z",
+                "owner": "xiprox",
+                "repo": "Hummingbird-for-Android",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AbsolutReader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390318012,
+                "language": "JavaScript",
+                "last_commit": "2022-08-21T12:34:10Z",
+                "owner": "xvalme",
+                "repo": "AbsolutReader",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":book: eBook Reader"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NewPipe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41889031,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:02:29Z",
+                "owner": "TeamNewPipe",
+                "repo": "NewPipe",
+                "stars": 39396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jetcaster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AntennaPod",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5244445,
+                "language": "Java",
+                "last_commit": "2026-08-14T22:19:31Z",
+                "owner": "AntennaPod",
+                "repo": "AntennaPod",
+                "stars": 8089
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Timber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37333214,
+                "language": "Java",
+                "last_commit": "2023-04-28T07:13:46Z",
+                "owner": "naman14",
+                "repo": "Timber",
+                "stars": 7039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Phonograph",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31720673,
+                "language": "Java",
+                "last_commit": "2022-09-24T17:37:41Z",
+                "owner": "karimknaebel",
+                "repo": "Phonograph",
+                "stars": 2743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MovieGuide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47489502,
+                "language": "Java",
+                "last_commit": "2025-09-23T09:40:22Z",
+                "owner": "esoxjem",
+                "repo": "MovieGuide",
+                "stars": 2598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shuttle",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 82670303,
+                "language": "Java",
+                "last_commit": "2022-12-28T23:40:53Z",
+                "owner": "timusus",
+                "repo": "Shuttle",
+                "stars": 2176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MovieHunt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32935880,
+                "language": "Kotlin",
+                "last_commit": "2022-07-29T06:45:17Z",
+                "owner": "enginebai",
+                "repo": "MovieHunt",
+                "stars": 764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SoundSpice-mobile",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204332585,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T04:24:32Z",
+                "owner": "farshed",
+                "repo": "SoundSpice-mobile",
+                "stars": 427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TvFlix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98877626,
+                "language": "Kotlin",
+                "last_commit": "2026-06-19T18:28:21Z",
+                "owner": "reactivedroid",
+                "repo": "TvFlix",
+                "stars": 411
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MovieMade",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115437864,
+                "language": "Kotlin",
+                "last_commit": "2026-08-13T10:59:12Z",
+                "owner": "michaelbel",
+                "repo": "movies",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Topcorn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256630741,
+                "language": "Kotlin",
+                "last_commit": "2021-06-12T19:05:01Z",
+                "owner": "theapache64",
+                "repo": "topcorn",
+                "stars": 228
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":movie_camera: Entertainment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bitcoin-wallet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3886965,
+                "language": "Java",
+                "last_commit": "2025-03-05T16:08:48Z",
+                "owner": "bitcoin-wallet",
+                "repo": "bitcoin-wallet",
+                "stars": 4155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCoin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44438823,
+                "language": "Java",
+                "last_commit": "2023-04-28T07:24:38Z",
+                "owner": "Nightonke",
+                "repo": "CoCoin",
+                "stars": 2834
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gnucash-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4387088,
+                "language": "Java",
+                "last_commit": "2024-06-14T12:24:04Z",
+                "owner": "codinguser",
+                "repo": "gnucash-android",
+                "stars": 1263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Financius",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14277656,
+                "language": "Java",
+                "last_commit": "2019-05-12T20:53:22Z",
+                "owner": "mvarnagiris",
+                "repo": "financius",
+                "stars": 625
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bither-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19660554,
+                "language": "Java",
+                "last_commit": "2026-01-26T06:11:49Z",
+                "owner": "bither",
+                "repo": "bither-android",
+                "stars": 457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Expenses",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134851634,
+                "language": "Kotlin",
+                "last_commit": "2021-07-20T20:16:25Z",
+                "owner": "nominalista",
+                "repo": "expenses",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Finance-Manager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214799991,
+                "language": "Java",
+                "last_commit": "2023-09-26T23:50:32Z",
+                "owner": "josharsh",
+                "repo": "Finance-Manager",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kripto",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 362491233,
+                "language": "Kotlin",
+                "last_commit": "2022-04-21T12:22:45Z",
+                "owner": "sauravrao637",
+                "repo": "Kripto",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CurrencyExchange",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335384560,
+                "language": "Kotlin",
+                "last_commit": "2022-04-12T14:09:42Z",
+                "owner": "marwa-eltayeb",
+                "repo": "CurrencyExchange",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":moneybag: Finance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pixel-dungeon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22292230,
+                "language": "Java",
+                "last_commit": "2019-07-23T09:09:27Z",
+                "owner": "watabou",
+                "repo": "pixel-dungeon",
+                "stars": 3939
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Santa-tracker-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 32765638,
+                "language": "Java",
+                "last_commit": "2022-06-30T06:38:28Z",
+                "owner": "google",
+                "repo": "santa-tracker-android",
+                "stars": 2061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freeciv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88430427,
+                "language": "C",
+                "last_commit": "2026-08-19T02:02:40Z",
+                "owner": "freeciv",
+                "repo": "freeciv",
+                "stars": 1578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2048-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17747462,
+                "language": "Java",
+                "last_commit": "2024-08-11T03:20:54Z",
+                "owner": "uberspot",
+                "repo": "2048-android",
+                "stars": 1086
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CuboidalDrift",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 392560355,
+                "language": "C#",
+                "last_commit": "2023-03-20T12:16:51Z",
+                "owner": "virejdasani",
+                "repo": "CuboidalDrift",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuizApp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524339137,
+                "language": "Kotlin",
+                "last_commit": "2024-06-25T07:53:43Z",
+                "owner": "pratyaksh1610",
+                "repo": "Quiz_App",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":soccer: Games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pedometer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14645983,
+                "language": "Java",
+                "last_commit": "2023-11-03T09:32:24Z",
+                "owner": "j4velin",
+                "repo": "Pedometer",
+                "stars": 1428
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Runnerup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6888841,
+                "language": "Java",
+                "last_commit": "2026-08-12T21:26:03Z",
+                "owner": "jonasoreland",
+                "repo": "runnerup",
+                "stars": 948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-heart-rate-monitor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14545249,
+                "language": "Java",
+                "last_commit": "2020-10-01T11:16:47Z",
+                "owner": "phishman3579",
+                "repo": "android-heart-rate-monitor",
+                "stars": 474
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Petals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426180570,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T02:29:29Z",
+                "owner": "LeoColman",
+                "repo": "Petals",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Water-Intake-Tracker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641763704,
+                "language": "Java",
+                "last_commit": "2023-05-17T06:39:12Z",
+                "owner": "JacobKerames",
+                "repo": "water-intake-tracker",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7minWorkout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662233407,
+                "language": "Kotlin",
+                "last_commit": "2023-10-23T18:10:09Z",
+                "owner": "sharshv2012",
+                "repo": "7minWorkout",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FitLite",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 922992456,
+                "language": "Kotlin",
+                "last_commit": "2025-10-04T11:53:55Z",
+                "owner": "jay-sharmaa",
+                "repo": "FitLite",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":weight_lifting: Health & Fitness"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RxJava",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7508411,
+                "language": "Java",
+                "last_commit": "2026-08-17T08:50:30Z",
+                "owner": "ReactiveX",
+                "repo": "RxJava",
+                "stars": 48202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Okhttp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5152285,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T19:54:29Z",
+                "owner": "lysine-dev",
+                "repo": "okhttp",
+                "stars": 47051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Retrofit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 892275,
+                "language": "Java",
+                "last_commit": "2026-08-16T23:02:12Z",
+                "owner": "lysine-dev",
+                "repo": "retrofit",
+                "stars": 43933
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MPAndroidChart",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19148949,
+                "language": "Java",
+                "last_commit": "2025-06-05T07:06:39Z",
+                "owner": "PhilJay",
+                "repo": "MPAndroidChart",
+                "stars": 38194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lottie-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70198875,
+                "language": "Java",
+                "last_commit": "2026-02-15T22:03:57Z",
+                "owner": "airbnb",
+                "repo": "lottie-android",
+                "stars": 35700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Glide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11267509,
+                "language": "Java",
+                "last_commit": "2026-08-17T07:19:17Z",
+                "owner": "bumptech",
+                "repo": "glide",
+                "stars": 35026
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zxing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2562751,
+                "language": "Java",
+                "last_commit": "2026-08-17T06:52:29Z",
+                "owner": "zxing",
+                "repo": "zxing",
+                "stars": 34070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Butterknife",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8575137,
+                "language": "Java",
+                "last_commit": "2023-09-02T07:41:30Z",
+                "owner": "JakeWharton",
+                "repo": "butterknife",
+                "stars": 25350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EventBus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5070389,
+                "language": "Java",
+                "last_commit": "2024-02-21T18:18:34Z",
+                "owner": "greenrobot",
+                "repo": "EventBus",
+                "stars": 24717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gson",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32538871,
+                "language": "Java",
+                "last_commit": "2026-08-14T19:50:04Z",
+                "owner": "google",
+                "repo": "gson",
+                "stars": 24226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExoPlayer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20818126,
+                "language": "Java",
+                "last_commit": "2025-12-23T16:39:03Z",
+                "owner": "google",
+                "repo": "ExoPlayer",
+                "stars": 21930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Picasso",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10057936,
+                "language": "Kotlin",
+                "last_commit": "2024-11-06T03:35:18Z",
+                "owner": "square",
+                "repo": "picasso",
+                "stars": 18799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dagger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7968417,
+                "language": "Java",
+                "last_commit": "2026-08-19T03:48:24Z",
+                "owner": "google",
+                "repo": "dagger",
+                "stars": 17705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Logger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32610336,
+                "language": "Java",
+                "last_commit": "2022-09-14T10:04:00Z",
+                "owner": "orhanobut",
+                "repo": "logger",
+                "stars": 13841
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-Debug-Database",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73927383,
+                "language": "Java",
+                "last_commit": "2026-02-05T09:09:32Z",
+                "owner": "amitshekhariitbhu",
+                "repo": "Android-Debug-Database",
+                "stars": 8674
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Accompanist",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261392630,
+                "language": "Kotlin",
+                "last_commit": "2025-08-18T20:49:30Z",
+                "owner": "google",
+                "repo": "accompanist",
+                "stars": 7829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Junit5",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29102367,
+                "language": "Java",
+                "last_commit": "2026-08-18T20:03:19Z",
+                "owner": "junit-team",
+                "repo": "junit-framework",
+                "stars": 7039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toasty",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79372587,
+                "language": "Java",
+                "last_commit": "2022-09-28T23:46:04Z",
+                "owner": "GrenderG",
+                "repo": "Toasty",
+                "stars": 6577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PreviewSeekBar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79966463,
+                "language": "Java",
+                "last_commit": "2024-01-10T22:04:52Z",
+                "owner": "rubensousa",
+                "repo": "PreviewSeekBar",
+                "stars": 3459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MotionToast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247149539,
+                "language": "Kotlin",
+                "last_commit": "2024-04-29T18:22:23Z",
+                "owner": "Spikeysanju",
+                "repo": "MotionToast",
+                "stars": 1533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AndroidCharts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14421240,
+                "language": "Java",
+                "last_commit": "2021-05-12T06:41:12Z",
+                "owner": "HackPlan",
+                "repo": "AndroidCharts",
+                "stars": 1323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZoomRecylerLayout",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231736297,
+                "language": "Kotlin",
+                "last_commit": "2020-07-22T03:32:34Z",
+                "owner": "Spikeysanju",
+                "repo": "ZoomRecylerLayout",
+                "stars": 808
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReactButton",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120108786,
+                "language": "Java",
+                "last_commit": "2023-05-25T18:18:48Z",
+                "owner": "AmrDeveloper",
+                "repo": "ReactButton",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LottieDIalog",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 419838909,
+                "language": "Java",
+                "last_commit": "2022-07-16T14:51:07Z",
+                "owner": "AmrDeveloper",
+                "repo": "LottieDialog",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FilterLibrary",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103025394,
+                "language": "Kotlin",
+                "last_commit": "2026-08-13T12:07:50Z",
+                "owner": "hgayan7",
+                "repo": "FilterLibrary",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MathView",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386354724,
+                "language": "Kotlin",
+                "last_commit": "2022-10-08T13:57:12Z",
+                "owner": "derysudrajat",
+                "repo": "math-view",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":books: Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jetsurvey",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Iosched",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 18347476,
+                "language": "Kotlin",
+                "last_commit": "2023-01-05T18:35:51Z",
+                "owner": "google",
+                "repo": "iosched",
+                "stars": 21643
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plaid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45261969,
+                "language": "Kotlin",
+                "last_commit": "2024-01-04T20:49:31Z",
+                "owner": "nickbutcher",
+                "repo": "plaid",
+                "stars": 16177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UAMP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31929346,
+                "language": "Kotlin",
+                "last_commit": "2026-01-09T15:17:00Z",
+                "owner": "android",
+                "repo": "uamp",
+                "stars": 13176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pokedex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268501098,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T06:13:26Z",
+                "owner": "skydoves",
+                "repo": "Pokedex",
+                "stars": 8351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Duckduckgo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78869127,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T11:57:58Z",
+                "owner": "duckduckgo",
+                "repo": "Android",
+                "stars": 4788
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LeafPic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49219232,
+                "language": "Java",
+                "last_commit": "2024-02-14T23:27:23Z",
+                "owner": "UnevenSoftware",
+                "repo": "LeafPic",
+                "stars": 3266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-wikipedia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13862999,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T05:24:02Z",
+                "owner": "wikimedia",
+                "repo": "apps-android-wikipedia",
+                "stars": 3007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ridesharing-uber-lyft-app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249939577,
+                "language": "Kotlin",
+                "last_commit": "2026-01-28T09:28:37Z",
+                "owner": "amitshekhariitbhu",
+                "repo": "ridesharing-uber-lyft-app",
+                "stars": 1672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kickmaterial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43504255,
+                "language": "Kotlin",
+                "last_commit": "2018-11-14T15:57:36Z",
+                "owner": "byoutline",
+                "repo": "kickmaterial",
+                "stars": 1612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AndroidTensorFlowMachineLearning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84030164,
+                "language": "Java",
+                "last_commit": "2025-05-02T03:41:52Z",
+                "owner": "amitshekhariitbhu",
+                "repo": "AndroidTensorFlowMachineLearningExample",
+                "stars": 1441
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposeAcademy-Playground",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265163836,
+                "language": "Kotlin",
+                "last_commit": "2021-04-08T05:27:36Z",
+                "owner": "hitherejoe",
+                "repo": "ComposeAcademy-Playground",
+                "stars": 968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Openfoodfacts-androidapp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35174991,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T09:36:03Z",
+                "owner": "openfoodfacts",
+                "repo": "openfoodfacts-androidapp",
+                "stars": 804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose-pokedex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232925606,
+                "language": "Kotlin",
+                "last_commit": "2022-05-10T18:32:52Z",
+                "owner": "zsoltk",
+                "repo": "compose-pokedex",
+                "stars": 797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrashReporter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99141018,
+                "language": "Java",
+                "last_commit": "2023-12-30T16:06:53Z",
+                "owner": "MindorksOpenSource",
+                "repo": "CrashReporter",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MoonShot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187475989,
+                "language": "Kotlin",
+                "last_commit": "2020-10-02T14:43:01Z",
+                "owner": "haroldadmin",
+                "repo": "MoonShot",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Space-app",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253570488,
+                "language": "Kotlin",
+                "last_commit": "2022-07-23T10:10:21Z",
+                "owner": "ValterKasper",
+                "repo": "space-app",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-conferences",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257660003,
+                "language": "Kotlin",
+                "last_commit": "2022-06-02T10:45:15Z",
+                "owner": "jitinsharma",
+                "repo": "android-conferences",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoronavirusWorldStatus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249173750,
+                "language": "Kotlin",
+                "last_commit": "2020-09-05T23:29:51Z",
+                "owner": "HamdiBoumaiza",
+                "repo": "CoronavirusWorldStatus",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":art: Misc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JetNews",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211288349,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T09:01:09Z",
+                "owner": "android",
+                "repo": "compose-samples",
+                "stars": 23384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Materialistic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29653587,
+                "language": "Java",
+                "last_commit": "2024-05-08T04:25:13Z",
+                "owner": "hidroh",
+                "repo": "materialistic",
+                "stars": 2334
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flym",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 9619510,
+                "language": "Kotlin",
+                "last_commit": "2021-02-21T23:07:47Z",
+                "owner": "FredJul",
+                "repo": "Flym",
+                "stars": 958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nextcloud News Reader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10296149,
+                "language": "Java",
+                "last_commit": "2026-08-17T05:17:23Z",
+                "owner": "nextcloud",
+                "repo": "news-android",
+                "stars": 768
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NYTimes-App",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278958324,
+                "language": "Kotlin",
+                "last_commit": "2022-03-13T11:13:20Z",
+                "owner": "TheCodeMonks",
+                "repo": "NYTimes-App",
+                "stars": 513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cheddar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39693402,
+                "language": "Kotlin",
+                "last_commit": "2026-01-11T20:03:08Z",
+                "owner": "adrianblancode",
+                "repo": "Cheddar",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Newzz-Compose",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270335322,
+                "language": "Kotlin",
+                "last_commit": "2022-03-18T07:33:22Z",
+                "owner": "Akashkamble",
+                "repo": "Newzz-Compose",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NewsFeed",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261390431,
+                "language": "Kotlin",
+                "last_commit": "2020-05-13T12:30:05Z",
+                "owner": "KevinGitonga",
+                "repo": "NewsFeed",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NewsFeed-MVI-Dagger",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242919561,
+                "language": "Kotlin",
+                "last_commit": "2020-03-26T08:10:39Z",
+                "owner": "HadySalhab",
+                "repo": "NewsFeed-MVI-Dagger",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome NewsApp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439033359,
+                "language": "Java",
+                "last_commit": "2022-07-24T07:43:37Z",
+                "owner": "Mehranalam",
+                "repo": "NewsApp",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":newspaper: News"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Joplin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79162682,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:06:38Z",
+                "owner": "laurent22",
+                "repo": "joplin",
+                "stars": 56009
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uhabits",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26357991,
+                "language": "Kotlin",
+                "last_commit": "2026-07-21T12:59:15Z",
+                "owner": "iSoron",
+                "repo": "uhabits",
+                "stars": 10143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AmazeFileManager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21833183,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T19:48:34Z",
+                "owner": "TeamAmaze",
+                "repo": "AmazeFileManager",
+                "stars": 6336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owncloud - Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5550567,
+                "language": "Kotlin",
+                "last_commit": "2026-08-14T03:44:22Z",
+                "owner": "owncloud",
+                "repo": "android",
+                "stars": 4155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Omni-Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15120144,
+                "language": "Java",
+                "last_commit": "2025-08-12T20:43:09Z",
+                "owner": "federicoiosue",
+                "repo": "Omni-Notes",
+                "stars": 2805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Etar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41903441,
+                "language": "Java",
+                "last_commit": "2026-08-16T01:38:01Z",
+                "owner": "Etar-Group",
+                "repo": "Etar-Calendar",
+                "stars": 2579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minimal-Todo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42064055,
+                "language": "Java",
+                "last_commit": "2023-05-22T19:36:43Z",
+                "owner": "avjinder",
+                "repo": "Minimal-Todo",
+                "stars": 2190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AnExplorer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9133677,
+                "language": "Java",
+                "last_commit": "2026-06-02T03:49:12Z",
+                "owner": "1hakr",
+                "repo": "AnExplorer",
+                "stars": 2013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLManager",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36009080,
+                "language": "Java",
+                "last_commit": "2020-09-30T19:48:08Z",
+                "owner": "javiersantos",
+                "repo": "MLManager",
+                "stars": 1249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clean-Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250371727,
+                "language": "Kotlin",
+                "last_commit": "2024-03-13T10:09:56Z",
+                "owner": "mitchtabian",
+                "repo": "Clean-Notes",
+                "stars": 556
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scarlet-Notes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58070707,
+                "language": "Kotlin",
+                "last_commit": "2021-12-21T13:10:55Z",
+                "owner": "BijoySingh",
+                "repo": "Scarlet-Notes",
+                "stars": 361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linkhub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379033562,
+                "language": "Kotlin",
+                "last_commit": "2026-08-09T18:43:31Z",
+                "owner": "AmrDeveloper",
+                "repo": "LinkHub",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JetpackComposeCalculator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264421247,
+                "language": "Kotlin",
+                "last_commit": "2020-08-11T12:32:54Z",
+                "owner": "ahmedrizwan",
+                "repo": "JetpackComposeCalculator",
+                "stars": 314
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HabitBuilder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324148039,
+                "language": "Kotlin",
+                "last_commit": "2026-08-03T23:00:01Z",
+                "owner": "ofalvai",
+                "repo": "HabitBuilder",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LeetDroid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 448634081,
+                "language": "Kotlin",
+                "last_commit": "2023-04-01T14:19:55Z",
+                "owner": "cdhiraj40",
+                "repo": "LeetDroid",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose-ShoppingList",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257728603,
+                "language": "Kotlin",
+                "last_commit": "2023-11-23T00:32:43Z",
+                "owner": "QArtur99",
+                "repo": "Compose-ShoppingList",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Studify",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271896139,
+                "language": "JavaScript",
+                "last_commit": "2023-01-06T10:38:25Z",
+                "owner": "cmcodes1",
+                "repo": "Studify",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StackOverflow - Community Version",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245656240,
+                "language": "Kotlin",
+                "last_commit": "2024-11-03T19:21:22Z",
+                "owner": "mayorjay",
+                "repo": "StackOverflow-Community-Version",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Work Tracker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600937499,
+                "language": "Kotlin",
+                "last_commit": "2024-10-29T02:59:58Z",
+                "owner": "parmstrong842",
+                "repo": "WorkTracker",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSSAVE",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731253557,
+                "language": "Java",
+                "last_commit": "2025-07-12T17:32:40Z",
+                "owner": "mukuldeep",
+                "repo": "OSSAVE",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notes-Central",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278527502,
+                "language": "Java",
+                "last_commit": "2020-07-10T08:52:43Z",
+                "owner": "vidit135g",
+                "repo": "Notes-Central",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":rocket: Productivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SoundRecorder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28464887,
+                "language": "Java",
+                "last_commit": "2026-06-23T19:14:58Z",
+                "owner": "dkim0419",
+                "repo": "SoundRecorder",
+                "stars": 1501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KDEConnect",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42728401,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T21:56:08Z",
+                "owner": "KDE",
+                "repo": "kdeconnect-android",
+                "stars": 1417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Turbo-editor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12828461,
+                "language": "Java",
+                "last_commit": "2020-03-03T02:58:13Z",
+                "owner": "vmihalachi",
+                "repo": "turbo-editor",
+                "stars": 1364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wally",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27177077,
+                "language": "Java",
+                "last_commit": "2019-06-07T03:22:49Z",
+                "owner": "musenkishi",
+                "repo": "wally",
+                "stars": 958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Red-moon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54026707,
+                "language": "Kotlin",
+                "last_commit": "2026-05-18T18:11:37Z",
+                "owner": "LibreShift",
+                "repo": "red-moon",
+                "stars": 728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Science Journal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 62246684,
+                "language": "Java",
+                "last_commit": "2020-12-14T18:26:45Z",
+                "owner": "googlearchive",
+                "repo": "science-journal",
+                "stars": 507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hash Checker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 158021814,
+                "language": "Java",
+                "last_commit": "2025-08-28T06:22:12Z",
+                "owner": "hash-checker",
+                "repo": "hash-checker",
+                "stars": 216
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":hammer_and_wrench: Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Travel-Mate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50726401,
+                "language": "Java",
+                "last_commit": "2022-06-13T11:34:40Z",
+                "owner": "project-travel-mate",
+                "repo": "Travel-Mate",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transportr",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12641222,
+                "language": "Kotlin",
+                "last_commit": "2026-05-28T21:13:14Z",
+                "owner": "grote",
+                "repo": "Transportr",
+                "stars": 1180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cyclestreets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 832025,
+                "language": "Java",
+                "last_commit": "2025-06-11T09:04:50Z",
+                "owner": "cyclestreets",
+                "repo": "android",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HolidayInfo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 499526183,
+                "language": "Kotlin",
+                "last_commit": "2025-04-08T21:54:47Z",
+                "owner": "mayorjay",
+                "repo": "HolidayInfo",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":earth_africa: Travel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bitwarden",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57452143,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T10:55:40Z",
+                "owner": "bitwarden",
+                "repo": "android",
+                "stars": 9235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Simple-Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50459012,
+                "language": "Kotlin",
+                "last_commit": "2024-06-26T15:37:04Z",
+                "owner": "SimpleMobileTools",
+                "repo": "Simple-Calendar",
+                "stars": 3648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Authpass",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203756716,
+                "language": "Dart",
+                "last_commit": "2026-08-18T22:52:35Z",
+                "owner": "authpass",
+                "repo": "authpass",
+                "stars": 2764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Images-to-PDF",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52264160,
+                "language": "Java",
+                "last_commit": "2026-01-08T13:28:49Z",
+                "owner": "Swati4star",
+                "repo": "Images-to-PDF",
+                "stars": 1327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AnotherMonitor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32958366,
+                "language": "Java",
+                "last_commit": "2023-01-23T09:51:38Z",
+                "owner": "AntonioRedondo",
+                "repo": "AnotherMonitor",
+                "stars": 1112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Photo-affix",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 44452945,
+                "language": "Kotlin",
+                "last_commit": "2020-02-24T19:49:56Z",
+                "owner": "afollestad",
+                "repo": "photo-affix",
+                "stars": 1010
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeyPass",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334702754,
+                "language": "Kotlin",
+                "last_commit": "2026-08-16T00:09:33Z",
+                "owner": "yogeshpaliyal",
+                "repo": "KeyPass",
+                "stars": 780
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pdfview-Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167713262,
+                "language": "Java",
+                "last_commit": "2022-06-13T13:07:44Z",
+                "owner": "Dmitry-Borodin",
+                "repo": "pdfview-android",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Talalarmo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54441095,
+                "language": "Java",
+                "last_commit": "2020-05-25T09:35:34Z",
+                "owner": "trikita",
+                "repo": "talalarmo",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Memento-Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 66690455,
+                "language": "Java",
+                "last_commit": "2021-01-10T17:49:00Z",
+                "owner": "alexstyl",
+                "repo": "Memento-Calendar",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Earthview-android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47778950,
+                "language": "Java",
+                "last_commit": "2017-05-11T09:23:11Z",
+                "owner": "PDDStudio",
+                "repo": "earthview-android",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WiFiKeyShare",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49671662,
+                "language": "Java",
+                "last_commit": "2018-10-30T22:49:35Z",
+                "owner": "bparmentier",
+                "repo": "WiFiKeyShare",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moticons",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39720660,
+                "language": "Java",
+                "last_commit": "2023-12-01T08:42:11Z",
+                "owner": "javiersantos",
+                "repo": "Moticons",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Varis-Android",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38716513,
+                "language": "Java",
+                "last_commit": "2021-07-29T04:38:10Z",
+                "owner": "dkhmelenko",
+                "repo": "Varis-Android",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImageSearching",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620079817,
+                "language": "Java",
+                "last_commit": "2023-06-05T09:12:03Z",
+                "owner": "MinhyeokOh",
+                "repo": "android_app_ui",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":gear: Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Good-weather",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46549855,
+                "language": "Java",
+                "last_commit": "2026-03-16T04:09:53Z",
+                "owner": "qqq3",
+                "repo": "good-weather",
+                "stars": 250
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoolWeather",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91019494,
+                "language": "Kotlin",
+                "last_commit": "2023-04-22T21:42:32Z",
+                "owner": "akoufa",
+                "repo": "CoolWeather",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeatherForecast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282729221,
+                "language": "Kotlin",
+                "last_commit": "2022-04-16T14:33:07Z",
+                "owner": "marwa-eltayeb",
+                "repo": "WeatherForecast",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WeatherZone",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293150462,
+                "language": "Kotlin",
+                "last_commit": "2023-07-13T10:05:59Z",
+                "owner": "SoumikBhatt",
+                "repo": "WeatherZone",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Weathercast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278373662,
+                "language": "Java",
+                "last_commit": "2020-09-17T02:54:59Z",
+                "owner": "vidit135g",
+                "repo": "Weathercast",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sunshine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374613765,
+                "language": "Java",
+                "last_commit": "2021-10-08T19:12:35Z",
+                "owner": "pragyaSingh13",
+                "repo": "Sunshine",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":partly_sunny: Weather"
+        }
+      ],
       "title": ":shamrock: Categories"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Kodi TV",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T12:38:35Z",
-            "owner": "xbmc",
-            "repo": "xbmc",
-            "stars": 21104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartYouTubeTV",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-10-16T00:11:40Z",
-            "owner": "yuliskov",
-            "repo": "SmartTubeLegacy",
-            "stars": 4473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tv-samples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-22T14:24:49Z",
-            "owner": "android",
-            "repo": "tv-samples",
-            "stars": 1268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vineyard",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-01-04T17:44:14Z",
-            "owner": "hitherejoe",
-            "repo": "Vineyard",
-            "stars": 718
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AndroidTVMovieParadise",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-04T22:30:32Z",
-            "owner": "halilozel1903",
-            "repo": "AndroidTVMovieParadise",
-            "stars": 207
-          }
-        }
-      ],
-      "title": ":tv: Android TV"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Wear-os-samples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T07:08:24Z",
-            "owner": "android",
-            "repo": "wear-os-samples",
-            "stars": 1389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FORMWatchFace",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2017-03-09T04:23:22Z",
-            "owner": "romannurik",
-            "repo": "FORMWatchFace",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Twelveish",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-02-12T22:30:53Z",
-            "owner": "LayoutXML",
-            "repo": "Twelveish",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wear-notify-for-reddit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2016-06-11T10:27:35Z",
-            "owner": "emmaguy",
-            "repo": "wear-notify-for-reddit",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smartalarm",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-08-29T15:53:09Z",
-            "owner": "fridgecow",
-            "repo": "smartalarm",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WearSquare",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": ":watch: Android Wear"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Android-mvp-architecture",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-04-16T15:28:00Z",
-            "owner": "janishar",
-            "repo": "android-mvp-architecture",
-            "stars": 4420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Archi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-10-03T12:13:37Z",
-            "owner": "ivacf",
-            "repo": "archi",
-            "stars": 3302
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Android-mvvm-architecture",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-04-16T15:26:34Z",
-            "owner": "janishar",
-            "repo": "android-mvvm-architecture",
-            "stars": 2951
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Foodium",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-03-20T03:03:16Z",
-            "owner": "PatilShreyas",
-            "repo": "Foodium",
-            "stars": 2324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NotyKT",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-04-23T02:23:34Z",
-            "owner": "PatilShreyas",
-            "repo": "NotyKT",
-            "stars": 1768
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clean-Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-03-13T10:09:56Z",
-            "owner": "mitchtabian",
-            "repo": "Clean-Notes",
-            "stars": 556
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Baking-App-Kotlin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-08-24T15:52:34Z",
-            "owner": "Ezike",
-            "repo": "Baking-App-Kotlin",
-            "stars": 457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RestApiMVVM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-11-18T16:35:44Z",
-            "owner": "mitchtabian",
-            "repo": "RestApiMVVM",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Github Visualizer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-04-21T11:44:11Z",
-            "owner": "dheerajkotwani",
-            "repo": "GithubVisualizer",
-            "stars": 121
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JetJoke",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-11T21:17:22Z",
-            "owner": "swapnil-musale",
-            "repo": "JetJoke",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clean-MVP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2019-02-13T15:55:58Z",
-            "owner": "carlosmacmar",
-            "repo": "clean-MVP",
-            "stars": 21
-          }
-        }
-      ],
-      "title": ":office: Architecture"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Telegram",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-02T20:53:20Z",
-            "owner": "DrKLO",
-            "repo": "Telegram",
-            "stars": 29730
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Signal-Android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T18:34:25Z",
-            "owner": "signalapp",
-            "repo": "Signal-Android",
-            "stars": 29211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jetchat",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "K-9",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T14:45:45Z",
-            "owner": "thunderbird",
-            "repo": "thunderbird-android",
-            "stars": 13870
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tutanota",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:31:24Z",
-            "owner": "tutao",
-            "repo": "tutanota",
-            "stars": 7861
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Qksms",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-06-02T16:19:16Z",
-            "owner": "moezbhatti",
-            "repo": "qksms",
-            "stars": 4590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FairEmail",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T15:43:52Z",
-            "owner": "M66B",
-            "repo": "FairEmail",
-            "stars": 4559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kdeconnect-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T21:56:08Z",
-            "owner": "KDE",
-            "repo": "kdeconnect-android",
-            "stars": 1417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Proton Mail for Android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-17T15:12:19Z",
-            "owner": "ProtonMail",
-            "repo": "android-mail",
-            "stars": 968
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jetpack-Compose-WhatsApp-Clone",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-02-19T00:41:40Z",
-            "owner": "MindorksOpenSource",
-            "repo": "Jetpack-Compose-WhatsApp-Clone",
-            "stars": 667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "forem-Dev",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-02-12T14:29:16Z",
-            "owner": "forem",
-            "repo": "DEV-Android",
-            "stars": 423
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tindroid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-12T11:30:28Z",
-            "owner": "tinode",
-            "repo": "tindroid",
-            "stars": 394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Irccloud-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-28T15:19:00Z",
-            "owner": "irccloud",
-            "repo": "android",
-            "stars": 309
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wire-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T16:43:26Z",
-            "owner": "wireapp",
-            "repo": "wire-android",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Replify-Messenger",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-07-10T08:51:35Z",
-            "owner": "vidit135g",
-            "repo": "Replify-Messenger",
-            "stars": 25
-          }
-        }
-      ],
-      "title": ":iphone: Communication"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "IReader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-06T16:50:22Z",
-            "owner": "IReaderorg",
-            "repo": "IReader",
-            "stars": 921
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bookdash-android-app",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-02-12T15:20:33Z",
-            "owner": "bookdash",
-            "repo": "bookdash-android-app",
-            "stars": 712
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T05:05:17Z",
-            "owner": "hoc081098",
-            "repo": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
-            "stars": 292
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hummingbird-for-Android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2015-06-20T17:10:33Z",
-            "owner": "xiprox",
-            "repo": "Hummingbird-for-Android",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AbsolutReader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-08-21T12:34:10Z",
-            "owner": "xvalme",
-            "repo": "AbsolutReader",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tachiyomi",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": ":book: eBook Reader"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NewPipe",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T12:44:03Z",
-            "owner": "TeamNewPipe",
-            "repo": "NewPipe",
-            "stars": 39387
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jetcaster",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AntennaPod",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-14T22:19:31Z",
-            "owner": "AntennaPod",
-            "repo": "AntennaPod",
-            "stars": 8087
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Timber",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-04-28T07:13:46Z",
-            "owner": "naman14",
-            "repo": "Timber",
-            "stars": 7039
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Phonograph",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2022-09-24T17:37:41Z",
-            "owner": "karimknaebel",
-            "repo": "Phonograph",
-            "stars": 2743
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MovieGuide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-09-23T09:40:22Z",
-            "owner": "esoxjem",
-            "repo": "MovieGuide",
-            "stars": 2598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shuttle",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2022-12-28T23:40:53Z",
-            "owner": "timusus",
-            "repo": "Shuttle",
-            "stars": 2176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MovieHunt",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-07-29T06:45:17Z",
-            "owner": "enginebai",
-            "repo": "MovieHunt",
-            "stars": 764
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SoundSpice-mobile",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T04:24:32Z",
-            "owner": "farshed",
-            "repo": "SoundSpice-mobile",
-            "stars": 427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TvFlix",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-06-19T18:28:21Z",
-            "owner": "reactivedroid",
-            "repo": "TvFlix",
-            "stars": 411
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MovieMade",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-13T10:59:12Z",
-            "owner": "michaelbel",
-            "repo": "movies",
-            "stars": 338
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Topcorn",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-06-12T19:05:01Z",
-            "owner": "theapache64",
-            "repo": "topcorn",
-            "stars": 228
-          }
-        }
-      ],
-      "title": ":movie_camera: Entertainment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bitcoin-wallet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-03-05T16:08:48Z",
-            "owner": "bitcoin-wallet",
-            "repo": "bitcoin-wallet",
-            "stars": 4155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCoin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-04-28T07:24:38Z",
-            "owner": "Nightonke",
-            "repo": "CoCoin",
-            "stars": 2834
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gnucash-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-06-14T12:24:04Z",
-            "owner": "codinguser",
-            "repo": "gnucash-android",
-            "stars": 1263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Financius",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-05-12T20:53:22Z",
-            "owner": "mvarnagiris",
-            "repo": "financius",
-            "stars": 625
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bither-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-01-26T06:11:49Z",
-            "owner": "bither",
-            "repo": "bither-android",
-            "stars": 457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Expenses",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-07-20T20:16:25Z",
-            "owner": "nominalista",
-            "repo": "expenses",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Finance-Manager",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-09-26T23:50:32Z",
-            "owner": "josharsh",
-            "repo": "Finance-Manager",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kripto",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-04-21T12:22:45Z",
-            "owner": "sauravrao637",
-            "repo": "Kripto",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CurrencyExchange",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-04-12T14:09:42Z",
-            "owner": "marwa-eltayeb",
-            "repo": "CurrencyExchange",
-            "stars": 13
-          }
-        }
-      ],
-      "title": ":moneybag: Finance"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pixel-dungeon",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-07-23T09:09:27Z",
-            "owner": "watabou",
-            "repo": "pixel-dungeon",
-            "stars": 3939
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Santa-tracker-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2022-06-30T06:38:28Z",
-            "owner": "google",
-            "repo": "santa-tracker-android",
-            "stars": 2061
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Freeciv",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T17:02:40Z",
-            "owner": "freeciv",
-            "repo": "freeciv",
-            "stars": 1578
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "2048-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-08-11T03:20:54Z",
-            "owner": "uberspot",
-            "repo": "2048-android",
-            "stars": 1086
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CuboidalDrift",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-03-20T12:16:51Z",
-            "owner": "virejdasani",
-            "repo": "CuboidalDrift",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QuizApp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-06-25T07:53:43Z",
-            "owner": "pratyaksh1610",
-            "repo": "Quiz_App",
-            "stars": 25
-          }
-        }
-      ],
-      "title": ":soccer: Games"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pedometer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-11-03T09:32:24Z",
-            "owner": "j4velin",
-            "repo": "Pedometer",
-            "stars": 1428
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Runnerup",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-12T21:26:03Z",
-            "owner": "jonasoreland",
-            "repo": "runnerup",
-            "stars": 948
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Android-heart-rate-monitor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-10-01T11:16:47Z",
-            "owner": "phishman3579",
-            "repo": "android-heart-rate-monitor",
-            "stars": 474
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Petals",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T19:54:23Z",
-            "owner": "LeoColman",
-            "repo": "Petals",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Water-Intake-Tracker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-05-17T06:39:12Z",
-            "owner": "JacobKerames",
-            "repo": "water-intake-tracker",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "7minWorkout",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-10-23T18:10:09Z",
-            "owner": "sharshv2012",
-            "repo": "7minWorkout",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FitLite",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-10-04T11:53:55Z",
-            "owner": "jay-sharmaa",
-            "repo": "FitLite",
-            "stars": 0
-          }
-        }
-      ],
-      "title": ":weight_lifting: Health & Fitness"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RxJava",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T08:50:30Z",
-            "owner": "ReactiveX",
-            "repo": "RxJava",
-            "stars": 48203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Okhttp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T19:54:29Z",
-            "owner": "lysine-dev",
-            "repo": "okhttp",
-            "stars": 47052
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Retrofit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-16T23:02:12Z",
-            "owner": "lysine-dev",
-            "repo": "retrofit",
-            "stars": 43931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MPAndroidChart",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-06-05T07:06:39Z",
-            "owner": "PhilJay",
-            "repo": "MPAndroidChart",
-            "stars": 38195
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lottie-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-02-15T22:03:57Z",
-            "owner": "airbnb",
-            "repo": "lottie-android",
-            "stars": 35699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Glide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T07:19:17Z",
-            "owner": "bumptech",
-            "repo": "glide",
-            "stars": 35026
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zxing",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T06:52:29Z",
-            "owner": "zxing",
-            "repo": "zxing",
-            "stars": 34069
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Butterknife",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-09-02T07:41:30Z",
-            "owner": "JakeWharton",
-            "repo": "butterknife",
-            "stars": 25350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EventBus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-02-21T18:18:34Z",
-            "owner": "greenrobot",
-            "repo": "EventBus",
-            "stars": 24718
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gson",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-14T19:50:04Z",
-            "owner": "google",
-            "repo": "gson",
-            "stars": 24226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExoPlayer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-12-23T16:39:03Z",
-            "owner": "google",
-            "repo": "ExoPlayer",
-            "stars": 21930
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Picasso",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-11-06T03:35:18Z",
-            "owner": "square",
-            "repo": "picasso",
-            "stars": 18800
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dagger",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T20:35:16Z",
-            "owner": "google",
-            "repo": "dagger",
-            "stars": 17706
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Logger",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-09-14T10:04:00Z",
-            "owner": "orhanobut",
-            "repo": "logger",
-            "stars": 13842
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Android-Debug-Database",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-02-05T09:09:32Z",
-            "owner": "amitshekhariitbhu",
-            "repo": "Android-Debug-Database",
-            "stars": 8674
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Accompanist",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-08-18T20:49:30Z",
-            "owner": "google",
-            "repo": "accompanist",
-            "stars": 7829
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Junit5",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T20:03:19Z",
-            "owner": "junit-team",
-            "repo": "junit-framework",
-            "stars": 7039
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Toasty",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-09-28T23:46:04Z",
-            "owner": "GrenderG",
-            "repo": "Toasty",
-            "stars": 6577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PreviewSeekBar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-01-10T22:04:52Z",
-            "owner": "rubensousa",
-            "repo": "PreviewSeekBar",
-            "stars": 3459
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MotionToast",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-04-29T18:22:23Z",
-            "owner": "Spikeysanju",
-            "repo": "MotionToast",
-            "stars": 1533
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AndroidCharts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-05-12T06:41:12Z",
-            "owner": "HackPlan",
-            "repo": "AndroidCharts",
-            "stars": 1323
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZoomRecylerLayout",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-07-22T03:32:34Z",
-            "owner": "Spikeysanju",
-            "repo": "ZoomRecylerLayout",
-            "stars": 808
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReactButton",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-05-25T18:18:48Z",
-            "owner": "AmrDeveloper",
-            "repo": "ReactButton",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LottieDIalog",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-07-16T14:51:07Z",
-            "owner": "AmrDeveloper",
-            "repo": "LottieDialog",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FilterLibrary",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-13T12:07:50Z",
-            "owner": "hgayan7",
-            "repo": "FilterLibrary",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MathView",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-10-08T13:57:12Z",
-            "owner": "derysudrajat",
-            "repo": "math-view",
-            "stars": 31
-          }
-        }
-      ],
-      "title": ":books: Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jetsurvey",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Iosched",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2023-01-05T18:35:51Z",
-            "owner": "google",
-            "repo": "iosched",
-            "stars": 21644
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plaid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-01-04T20:49:31Z",
-            "owner": "nickbutcher",
-            "repo": "plaid",
-            "stars": 16176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UAMP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2026-01-09T15:17:00Z",
-            "owner": "android",
-            "repo": "uamp",
-            "stars": 13176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pokedex",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T06:13:26Z",
-            "owner": "skydoves",
-            "repo": "Pokedex",
-            "stars": 8351
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Duckduckgo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T20:02:34Z",
-            "owner": "duckduckgo",
-            "repo": "Android",
-            "stars": 4786
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LeafPic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-02-14T23:27:23Z",
-            "owner": "UnevenSoftware",
-            "repo": "LeafPic",
-            "stars": 3266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Android-wikipedia",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T20:28:15Z",
-            "owner": "wikimedia",
-            "repo": "apps-android-wikipedia",
-            "stars": 3006
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ridesharing-uber-lyft-app",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-01-28T09:28:37Z",
-            "owner": "amitshekhariitbhu",
-            "repo": "ridesharing-uber-lyft-app",
-            "stars": 1672
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kickmaterial",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2018-11-14T15:57:36Z",
-            "owner": "byoutline",
-            "repo": "kickmaterial",
-            "stars": 1612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AndroidTensorFlowMachineLearning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-05-02T03:41:52Z",
-            "owner": "amitshekhariitbhu",
-            "repo": "AndroidTensorFlowMachineLearningExample",
-            "stars": 1441
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ComposeAcademy-Playground",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-04-08T05:27:36Z",
-            "owner": "hitherejoe",
-            "repo": "ComposeAcademy-Playground",
-            "stars": 968
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Openfoodfacts-androidapp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T09:36:03Z",
-            "owner": "openfoodfacts",
-            "repo": "openfoodfacts-androidapp",
-            "stars": 804
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Compose-pokedex",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-05-10T18:32:52Z",
-            "owner": "zsoltk",
-            "repo": "compose-pokedex",
-            "stars": 797
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CrashReporter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-12-30T16:06:53Z",
-            "owner": "MindorksOpenSource",
-            "repo": "CrashReporter",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MoonShot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-10-02T14:43:01Z",
-            "owner": "haroldadmin",
-            "repo": "MoonShot",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Space-app",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-07-23T10:10:21Z",
-            "owner": "ValterKasper",
-            "repo": "space-app",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Android-conferences",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-06-02T10:45:15Z",
-            "owner": "jitinsharma",
-            "repo": "android-conferences",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoronavirusWorldStatus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-09-05T23:29:51Z",
-            "owner": "HamdiBoumaiza",
-            "repo": "CoronavirusWorldStatus",
-            "stars": 21
-          }
-        }
-      ],
-      "title": ":art: Misc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JetNews",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T08:09:12Z",
-            "owner": "android",
-            "repo": "compose-samples",
-            "stars": 23380
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Materialistic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-05-08T04:25:13Z",
-            "owner": "hidroh",
-            "repo": "materialistic",
-            "stars": 2334
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flym",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2021-02-21T23:07:47Z",
-            "owner": "FredJul",
-            "repo": "Flym",
-            "stars": 958
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nextcloud News Reader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-17T05:17:23Z",
-            "owner": "nextcloud",
-            "repo": "news-android",
-            "stars": 768
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NYTimes-App",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-03-13T11:13:20Z",
-            "owner": "TheCodeMonks",
-            "repo": "NYTimes-App",
-            "stars": 513
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cheddar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-01-11T20:03:08Z",
-            "owner": "adrianblancode",
-            "repo": "Cheddar",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Newzz-Compose",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-03-18T07:33:22Z",
-            "owner": "Akashkamble",
-            "repo": "Newzz-Compose",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NewsFeed",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-05-13T12:30:05Z",
-            "owner": "KevinGitonga",
-            "repo": "NewsFeed",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NewsFeed-MVI-Dagger",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-03-26T08:10:39Z",
-            "owner": "HadySalhab",
-            "repo": "NewsFeed-MVI-Dagger",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome NewsApp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-07-24T07:43:37Z",
-            "owner": "Mehranalam",
-            "repo": "NewsApp",
-            "stars": 4
-          }
-        }
-      ],
-      "title": ":newspaper: News"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Joplin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T18:49:04Z",
-            "owner": "laurent22",
-            "repo": "joplin",
-            "stars": 55998
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uhabits",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-07-21T12:59:15Z",
-            "owner": "iSoron",
-            "repo": "uhabits",
-            "stars": 10140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AmazeFileManager",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T19:48:34Z",
-            "owner": "TeamAmaze",
-            "repo": "AmazeFileManager",
-            "stars": 6336
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Owncloud - Android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-14T03:44:22Z",
-            "owner": "owncloud",
-            "repo": "android",
-            "stars": 4155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Omni-Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-08-12T20:43:09Z",
-            "owner": "federicoiosue",
-            "repo": "Omni-Notes",
-            "stars": 2805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Etar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-16T01:38:01Z",
-            "owner": "Etar-Group",
-            "repo": "Etar-Calendar",
-            "stars": 2577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minimal-Todo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-05-22T19:36:43Z",
-            "owner": "avjinder",
-            "repo": "Minimal-Todo",
-            "stars": 2190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AnExplorer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-02T03:49:12Z",
-            "owner": "1hakr",
-            "repo": "AnExplorer",
-            "stars": 2012
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLManager",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-30T19:48:08Z",
-            "owner": "javiersantos",
-            "repo": "MLManager",
-            "stars": 1249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clean-Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-03-13T10:09:56Z",
-            "owner": "mitchtabian",
-            "repo": "Clean-Notes",
-            "stars": 556
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scarlet-Notes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-12-21T13:10:55Z",
-            "owner": "BijoySingh",
-            "repo": "Scarlet-Notes",
-            "stars": 361
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Linkhub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-09T18:43:31Z",
-            "owner": "AmrDeveloper",
-            "repo": "LinkHub",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JetpackComposeCalculator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2020-08-11T12:32:54Z",
-            "owner": "ahmedrizwan",
-            "repo": "JetpackComposeCalculator",
-            "stars": 314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HabitBuilder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-03T23:00:01Z",
-            "owner": "ofalvai",
-            "repo": "HabitBuilder",
-            "stars": 290
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LeetDroid",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2023-04-01T14:19:55Z",
-            "owner": "cdhiraj40",
-            "repo": "LeetDroid",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Compose-ShoppingList",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-11-23T00:32:43Z",
-            "owner": "QArtur99",
-            "repo": "Compose-ShoppingList",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Studify",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-06T10:38:25Z",
-            "owner": "cmcodes1",
-            "repo": "Studify",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StackOverflow - Community Version",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-11-03T19:21:22Z",
-            "owner": "mayorjay",
-            "repo": "StackOverflow-Community-Version",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Work Tracker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-10-29T02:59:58Z",
-            "owner": "parmstrong842",
-            "repo": "WorkTracker",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSSAVE",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-07-12T17:32:40Z",
-            "owner": "mukuldeep",
-            "repo": "OSSAVE",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Notes-Central",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-07-10T08:52:43Z",
-            "owner": "vidit135g",
-            "repo": "Notes-Central",
-            "stars": 7
-          }
-        }
-      ],
-      "title": ":rocket: Productivity"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SoundRecorder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-23T19:14:58Z",
-            "owner": "dkim0419",
-            "repo": "SoundRecorder",
-            "stars": 1501
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KDEConnect",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-17T21:56:08Z",
-            "owner": "KDE",
-            "repo": "kdeconnect-android",
-            "stars": 1417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Turbo-editor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-03-03T02:58:13Z",
-            "owner": "vmihalachi",
-            "repo": "turbo-editor",
-            "stars": 1364
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wally",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-06-07T03:22:49Z",
-            "owner": "musenkishi",
-            "repo": "wally",
-            "stars": 957
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Red-moon",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-05-18T18:11:37Z",
-            "owner": "LibreShift",
-            "repo": "red-moon",
-            "stars": 728
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Google Science Journal",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2020-12-14T18:26:45Z",
-            "owner": "googlearchive",
-            "repo": "science-journal",
-            "stars": 507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hash Checker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2025-08-28T06:22:12Z",
-            "owner": "hash-checker",
-            "repo": "hash-checker",
-            "stars": 216
-          }
-        }
-      ],
-      "title": ":hammer_and_wrench: Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Travel-Mate",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-06-13T11:34:40Z",
-            "owner": "project-travel-mate",
-            "repo": "Travel-Mate",
-            "stars": 1337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Transportr",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-05-28T21:13:14Z",
-            "owner": "grote",
-            "repo": "Transportr",
-            "stars": 1180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cyclestreets",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-06-11T09:04:50Z",
-            "owner": "cyclestreets",
-            "repo": "android",
-            "stars": 225
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HolidayInfo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-04-08T21:54:47Z",
-            "owner": "mayorjay",
-            "repo": "HolidayInfo",
-            "stars": 6
-          }
-        }
-      ],
-      "title": ":earth_africa: Travel"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bitwarden",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-18T20:17:34Z",
-            "owner": "bitwarden",
-            "repo": "android",
-            "stars": 9231
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Simple-Calendar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2024-06-26T15:37:04Z",
-            "owner": "SimpleMobileTools",
-            "repo": "Simple-Calendar",
-            "stars": 3648
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Authpass",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-08-18T16:39:24Z",
-            "owner": "authpass",
-            "repo": "authpass",
-            "stars": 2763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Images-to-PDF",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-01-08T13:28:49Z",
-            "owner": "Swati4star",
-            "repo": "Images-to-PDF",
-            "stars": 1327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AnotherMonitor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-01-23T09:51:38Z",
-            "owner": "AntonioRedondo",
-            "repo": "AnotherMonitor",
-            "stars": 1112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Photo-affix",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2020-02-24T19:49:56Z",
-            "owner": "afollestad",
-            "repo": "photo-affix",
-            "stars": 1010
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeyPass",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-08-16T00:09:33Z",
-            "owner": "yogeshpaliyal",
-            "repo": "KeyPass",
-            "stars": 780
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pdfview-Android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-06-13T13:07:44Z",
-            "owner": "Dmitry-Borodin",
-            "repo": "pdfview-android",
-            "stars": 306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Talalarmo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-05-25T09:35:34Z",
-            "owner": "trikita",
-            "repo": "talalarmo",
-            "stars": 237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Memento-Calendar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2021-01-10T17:49:00Z",
-            "owner": "alexstyl",
-            "repo": "Memento-Calendar",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Earthview-android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-05-11T09:23:11Z",
-            "owner": "PDDStudio",
-            "repo": "earthview-android",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WiFiKeyShare",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2018-10-30T22:49:35Z",
-            "owner": "bparmentier",
-            "repo": "WiFiKeyShare",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moticons",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-12-01T08:42:11Z",
-            "owner": "javiersantos",
-            "repo": "Moticons",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Varis-Android",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-07-29T04:38:10Z",
-            "owner": "dkhmelenko",
-            "repo": "Varis-Android",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ImageSearching",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-06-05T09:12:03Z",
-            "owner": "MinhyeokOh",
-            "repo": "android_app_ui",
-            "stars": 4
-          }
-        }
-      ],
-      "title": ":gear: Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Good-weather",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-16T04:09:53Z",
-            "owner": "qqq3",
-            "repo": "good-weather",
-            "stars": 250
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoolWeather",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-04-22T21:42:32Z",
-            "owner": "akoufa",
-            "repo": "CoolWeather",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeatherForecast",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2022-04-16T14:33:07Z",
-            "owner": "marwa-eltayeb",
-            "repo": "WeatherForecast",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WeatherZone",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-07-13T10:05:59Z",
-            "owner": "SoumikBhatt",
-            "repo": "WeatherZone",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Weathercast",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-09-17T02:54:59Z",
-            "owner": "vidit135g",
-            "repo": "Weathercast",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sunshine",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-10-08T19:12:35Z",
-            "owner": "pragyaSingh13",
-            "repo": "Sunshine",
-            "stars": 1
-          }
-        }
-      ],
-      "title": ":partly_sunny: Weather"
-    },
-    {
-      "description": "Hacktoberfest is a month-long celebration of open source software organized by DigitalOcean in partnership with GitHub and Dev. Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.\nTo qualify for the official Hacktoberfest swag options, you must register and make four pull requests between October 1-31. Pull requests can be made to any public repository on GitHub, not just the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with Hacktoberfest’s quality standards, you will be ineligible to participate.\nYou can also check the swag-list and other companies giving away swags for HacktoberFest.",
-      "items": [],
-      "title": ":dart: HacktoberFest"
-    },
-    {
-      "description": "See CONTRIBUTING.md",
-      "items": [],
-      "title": ":memo: Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:44:09.819Z",
+    "last_updated": "2026-08-19T12:06:13.964Z",
     "original_repository": "binaryshrey/Awesome-Android-Open-Source-Projects",
+    "original_repository_id": 294181388,
     "original_repository_sha": "882cd990ff2552b43a65172beaf9281e442ba8b2",
     "enhanced_repository": "enhansome/enhansome-Awesome-Android-Open-Source-Projects",
     "enhanced_repository_description": null,
