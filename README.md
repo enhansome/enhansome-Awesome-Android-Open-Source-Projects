@@ -56,7 +56,7 @@
 
 ### :tv: Android TV
 
-* [Kodi TV](https://github.com/xbmc/xbmc) ⭐ 21,147 | 🐛 466 | 🌐 C++ | 📅 2026-08-29
+* [Kodi TV](https://github.com/xbmc/xbmc) ⭐ 21,148 | 🐛 466 | 🌐 C++ | 📅 2026-08-29
 
   * Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 
@@ -154,7 +154,7 @@
 
   * Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free. This repo contains the official source code for Telegram App for Android.
 
-* [Signal-Android](https://github.com/WhisperSystems/Signal-Android) ⭐ 29,262 | 🐛 487 | 🌐 Kotlin | 📅 2026-08-27
+* [Signal-Android](https://github.com/WhisperSystems/Signal-Android) ⭐ 29,263 | 🐛 487 | 🌐 Kotlin | 📅 2026-08-27
 
   * Signal is a messaging app for simple private communication with friends.
 
@@ -162,7 +162,7 @@
 
   * Jetchat is a sample chat app built with Jetpack Compose.
 
-* [K-9](https://github.com/k9mail/k-9) ⭐ 13,931 | 🐛 1,043 | 🌐 Kotlin | 📅 2026-08-27
+* [K-9](https://github.com/k9mail/k-9) ⭐ 13,932 | 🐛 1,043 | 🌐 Kotlin | 📅 2026-08-27
 
   * K-9 Mail is an open-source email client for Android.
 
@@ -202,7 +202,7 @@
 
   * The official Android app for IRCCloud.com
 
-* [Wire-android](https://github.com/wireapp/wire-android) ⭐ 253 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-28
+* [Wire-android](https://github.com/wireapp/wire-android) ⭐ 253 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-29
 
   * The project in this repository contains the Wire for Android client project.
 
@@ -422,11 +422,11 @@
 
   * A Java serialization/deserialization library to convert Java Objects into JSON and back
 
-* [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,930 | 🐛 628 | 🌐 Java | 📅 2025-12-23
+* [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,931 | 🐛 628 | 🌐 Java | 📅 2025-12-23
 
   * ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet. ExoPlayer supports features not currently supported by Android’s MediaPlayer API, including DASH and SmoothStreaming adaptive playbacks.
 
-* [Picasso](https://github.com/square/picasso) ⭐ 18,797 | 🐛 212 | 🌐 Kotlin | 📅 2024-11-06
+* [Picasso](https://github.com/square/picasso) ⭐ 18,798 | 🐛 212 | 🌐 Kotlin | 📅 2024-11-06
 
   * A powerful image downloading and caching library for Android
 
@@ -620,7 +620,7 @@
 
   * It is an mobile app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time. It is completely ad-free and open source.
 
-* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,356 | 🐛 637 | 🌐 Kotlin | 📅 2026-08-26
+* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,357 | 🐛 637 | 🌐 Kotlin | 📅 2026-08-26
 
   * Material design file manager for Android
 
@@ -751,7 +751,7 @@
 
 ### :gear: Utilities
 
-* [Bitwarden](https://github.com/bitwarden/android) ⭐ 9,284 | 🐛 178 | 🌐 Kotlin | 📅 2026-08-28
+* [Bitwarden](https://github.com/bitwarden/android) ⭐ 9,285 | 🐛 178 | 🌐 Kotlin | 📅 2026-08-28
 
   * Password management solution for individuals, teams, and business organizations written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 
