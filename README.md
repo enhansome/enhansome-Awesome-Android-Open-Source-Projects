@@ -56,7 +56,7 @@
 
 ### :tv: Android TV
 
-* [Kodi TV](https://github.com/xbmc/xbmc) ⭐ 21,229 | 🐛 462 | 🌐 C++ | 📅 2026-09-17
+* [Kodi TV](https://github.com/xbmc/xbmc) ⭐ 21,230 | 🐛 465 | 🌐 C++ | 📅 2026-09-18
 
   * Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 
@@ -78,7 +78,7 @@
 
 ### :watch: Android Wear
 
-* [Wear-os-samples](https://github.com/android/wear-os-samples) ⭐ 1,400 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-16
+* [Wear-os-samples](https://github.com/android/wear-os-samples) ⭐ 1,401 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-18
 
   * Multiple samples showing best practices in app and watch face development on Wear OS.
 
@@ -108,7 +108,7 @@
 
   * This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase.
 
-* [Archi](https://github.com/ivacf/archi) ⭐ 3,302 | 🐛 12 | 🌐 Java | 📅 2019-10-03
+* [Archi](https://github.com/ivacf/archi) ⭐ 3,301 | 🐛 12 | 🌐 Java | 📅 2019-10-03
 
   * This repository showcases and compares different architectural patterns that can be used to build Android apps. The exact same sample app is built three times with different architectures.
 
@@ -116,7 +116,7 @@
 
   * This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase.
 
-* [Foodium](https://github.com/PatilShreyas/Foodium) ⭐ 2,324 | 🐛 5 | 🌐 Kotlin | 📅 2026-03-20
+* [Foodium](https://github.com/PatilShreyas/Foodium) ⭐ 2,323 | 🐛 5 | 🌐 Kotlin | 📅 2026-03-20
 
   * Foodium is a sample food blog Android application built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 
@@ -150,27 +150,27 @@
 
 ### :iphone: Communication
 
-* [Telegram](https://github.com/DrKLO/Telegram) ⭐ 29,887 | 🐛 561 | 🌐 Java | 📅 2026-09-17
+* [Telegram](https://github.com/DrKLO/Telegram) ⭐ 29,892 | 🐛 561 | 🌐 Java | 📅 2026-09-17
 
   * Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free. This repo contains the official source code for Telegram App for Android.
 
-* [Signal-Android](https://github.com/WhisperSystems/Signal-Android) ⭐ 29,353 | 🐛 506 | 🌐 Kotlin | 📅 2026-09-17
+* [Signal-Android](https://github.com/WhisperSystems/Signal-Android) ⭐ 29,359 | 🐛 506 | 🌐 Kotlin | 📅 2026-09-18
 
   * Signal is a messaging app for simple private communication with friends.
 
-* [Jetchat](https://github.com/android/compose-samples/tree/master/Jetchat) ⭐ 23,464 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-17
+* [Jetchat](https://github.com/android/compose-samples/tree/master/Jetchat) ⭐ 23,463 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-18
 
   * Jetchat is a sample chat app built with Jetpack Compose.
 
-* [K-9](https://github.com/k9mail/k-9) ⭐ 14,006 | 🐛 1,060 | 🌐 Kotlin | 📅 2026-09-17
+* [K-9](https://github.com/k9mail/k-9) ⭐ 14,009 | 🐛 1,059 | 🌐 Kotlin | 📅 2026-09-18
 
   * K-9 Mail is an open-source email client for Android.
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,921 | 🐛 978 | 🌐 TypeScript | 📅 2026-09-17
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,922 | 🐛 978 | 🌐 TypeScript | 📅 2026-09-18
 
   * Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
 
-* [FairEmail](https://github.com/M66B/FairEmail/) ⭐ 4,633 | 🐛 3 | 🌐 Java | 📅 2026-09-17
+* [FairEmail](https://github.com/M66B/FairEmail/) ⭐ 4,636 | 🐛 3 | 🌐 Java | 📅 2026-09-17
 
   * An advanced email client for Android
 
@@ -178,11 +178,11 @@
 
   * QKSMS is an open source replacement to the stock messaging app on Android. It is currently available on the Google Play Store and on F-Droid
 
-* [Kdeconnect-android](https://github.com/KDE/kdeconnect-android) ⭐ 1,452 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-16
+* [Kdeconnect-android](https://github.com/KDE/kdeconnect-android) ⭐ 1,451 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-18
 
   * Native Android port of the KDE Connect Qt app
 
-* [Proton Mail for Android](https://github.com/ProtonMail/android-mail) ⭐ 1,006 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-01
+* [Proton Mail for Android](https://github.com/ProtonMail/android-mail) ⭐ 1,009 | 🐛 1 | 🌐 Kotlin | 📅 2026-09-01
 
   * ProtonMail Android app
 
@@ -202,7 +202,7 @@
 
   * The official Android app for IRCCloud.com
 
-* [Wire-android](https://github.com/wireapp/wire-android) ⭐ 253 | 🐛 18 | 🌐 Kotlin | 📅 2026-09-17
+* [Wire-android](https://github.com/wireapp/wire-android) ⭐ 252 | 🐛 20 | 🌐 Kotlin | 📅 2026-09-18
 
   * The project in this repository contains the Wire for Android client project.
 
@@ -212,7 +212,7 @@
 
 ### :book: eBook Reader
 
-* [IReader](https://github.com/IReaderorg/IReader) ⭐ 937 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-14
+* [IReader](https://github.com/IReaderorg/IReader) ⭐ 938 | 🐛 15 | 🌐 Kotlin | 📅 2026-09-14
 
   * IReader is a next-generation e-book reader, 100% open source, highly customizable, and designed for smooth reading and library management.
 
@@ -238,15 +238,15 @@
 
 ### :movie\_camera: Entertainment
 
-* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,710 | 🐛 1,464 | 🌐 Java | 📅 2026-09-17
+* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,713 | 🐛 1,469 | 🌐 Java | 📅 2026-09-17
 
   * A libre lightweight streaming front-end for Android.
 
-* [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster) ⭐ 23,464 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-17
+* [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster) ⭐ 23,463 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-18
 
   * Jetcaster is a sample podcast app, built with Jetpack Compose. The goal of the sample is to showcase dynamic theming and full featured architecture.
 
-* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,160 | 🐛 369 | 🌐 Java | 📅 2026-09-17
+* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,165 | 🐛 368 | 🌐 Java | 📅 2026-09-18
 
   * This is the official repository of AntennaPod, the easy-to-use, flexible and open-source podcast manager for Android.
 
@@ -288,7 +288,7 @@
 
 ### :moneybag: Finance
 
-* [Bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) ⭐ 4,158 | 🐛 78 | 🌐 Java | 📅 2025-03-05
+* [Bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) ⭐ 4,159 | 🐛 78 | 🌐 Java | 📅 2025-03-05
 
   * Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
 
@@ -304,11 +304,11 @@
 
   * Financius is a simple application that helps you log and track your expenses and keep an eye on your balance.
 
-* [bither-android](https://github.com/bither/bither-android) ⭐ 457 | 🐛 38 | 🌐 Java | 📅 2026-01-26
+* [bither-android](https://github.com/bither/bither-android) ⭐ 458 | 🐛 38 | 🌐 Java | 📅 2026-01-26
 
   * Bither is a simple and secure Bitcoin wallet!
 
-* [Expenses](https://github.com/nominalista/expenses) ⭐ 404 | 🐛 16 | 🌐 Kotlin | 📅 2021-07-20
+* [Expenses](https://github.com/nominalista/expenses) ⭐ 403 | 🐛 16 | 🌐 Kotlin | 📅 2021-07-20
 
   * App written in Kotlin for budget tracking.
 
@@ -334,7 +334,7 @@
 
   * Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.
 
-* [Freeciv](https://github.com/freeciv/freeciv) ⭐ 1,596 | 🐛 7 | 🌐 C | 📅 2026-09-17
+* [Freeciv](https://github.com/freeciv/freeciv) ⭐ 1,597 | 🐛 7 | 🌐 C | 📅 2026-09-18
 
   * Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
 
@@ -382,31 +382,31 @@
 
 ### :books: Libraries
 
-* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,199 | 🐛 11 | 🌐 Java | 📅 2026-09-17
+* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,194 | 🐛 11 | 🌐 Java | 📅 2026-09-17
 
   * RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 
-* [Okhttp](https://github.com/square/okhttp/) ⭐ 47,061 | 🐛 152 | 🌐 Kotlin | 📅 2026-09-17
+* [Okhttp](https://github.com/square/okhttp/) ⭐ 47,060 | 🐛 153 | 🌐 Kotlin | 📅 2026-09-17
 
   * Square’s meticulous HTTP client for Java and Kotlin.
 
-* [Retrofit](https://github.com/square/retrofit) ⭐ 43,942 | 🐛 173 | 🌐 Java | 📅 2026-09-09
+* [Retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 173 | 🌐 Java | 📅 2026-09-09
 
   * A type-safe HTTP client for Android and the JVM
 
-* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,174 | 🐛 2,191 | 🌐 Java | 📅 2025-06-05
+* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) ⭐ 38,171 | 🐛 2,191 | 🌐 Java | 📅 2025-06-05
 
   * A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 
-* [Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,723 | 🐛 74 | 🌐 Java | 📅 2026-02-15
+* [Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,725 | 🐛 74 | 🌐 Java | 📅 2026-02-15
 
   * Render After Effects animations natively on Android and iOS, Web, and React Native
 
-* [Glide](https://github.com/bumptech/glide) ⭐ 35,024 | 🐛 665 | 🌐 Java | 📅 2026-09-17
+* [Glide](https://github.com/bumptech/glide) ⭐ 35,026 | 🐛 666 | 🌐 Java | 📅 2026-09-18
 
   * An image loading and caching library for Android focused on smooth scrolling
 
-* [Zxing](https://github.com/zxing/zxing) ⭐ 34,097 | 🐛 3 | 🌐 Java | 📅 2026-09-07
+* [Zxing](https://github.com/zxing/zxing) ⭐ 34,100 | 🐛 3 | 🌐 Java | 📅 2026-09-07
 
   * ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 
@@ -418,23 +418,23 @@
 
   * Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 
-* [Gson](https://github.com/google/gson) ⭐ 24,235 | 🐛 323 | 🌐 Java | 📅 2026-09-16
+* [Gson](https://github.com/google/gson) ⭐ 24,234 | 🐛 323 | 🌐 Java | 📅 2026-09-16
 
   * A Java serialization/deserialization library to convert Java Objects into JSON and back
 
-* [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,940 | 🐛 627 | 🌐 Java | 📅 2025-12-23
+* [ExoPlayer](https://github.com/google/ExoPlayer) ⭐ 21,938 | 🐛 627 | 🌐 Java | 📅 2025-12-23
 
   * ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet. ExoPlayer supports features not currently supported by Android’s MediaPlayer API, including DASH and SmoothStreaming adaptive playbacks.
 
-* [Picasso](https://github.com/square/picasso) ⭐ 18,790 | 🐛 212 | 🌐 Kotlin | 📅 2024-11-06
+* [Picasso](https://github.com/square/picasso) ⭐ 18,789 | 🐛 212 | 🌐 Kotlin | 📅 2024-11-06
 
   * A powerful image downloading and caching library for Android
 
-* [Dagger](https://github.com/google/dagger) ⭐ 17,702 | 🐛 370 | 🌐 Java | 📅 2026-09-17
+* [Dagger](https://github.com/google/dagger) ⭐ 17,700 | 🐛 370 | 🌐 Java | 📅 2026-09-18
 
   * A fast dependency injector for Android and Java.
 
-* [Logger](https://github.com/orhanobut/logger) ⭐ 13,835 | 🐛 81 | 🌐 Java | 📅 2022-09-14
+* [Logger](https://github.com/orhanobut/logger) ⭐ 13,836 | 🐛 81 | 🌐 Java | 📅 2022-09-14
 
   * Simple, pretty and powerful logger for android
 
@@ -446,7 +446,7 @@
 
   * Accompanist is a group of libraries that contains some utilities which I've found myself copying around projects which use Jetpack Compose.
 
-* [Junit5](https://github.com/junit-team/junit5/) ⭐ 7,053 | 🐛 117 | 🌐 Java | 📅 2026-09-17
+* [Junit5](https://github.com/junit-team/junit5/) ⭐ 7,052 | 🐛 117 | 🌐 Java | 📅 2026-09-18
 
   * This repository is the home of the next generation of JUnit, JUnit 5.
 
@@ -458,7 +458,7 @@
 
   * A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
 
-* [MotionToast](https://github.com/Spikeysanju/MotionToast) ⭐ 1,534 | 🐛 32 | 🌐 Kotlin | 📅 2024-04-29
+* [MotionToast](https://github.com/Spikeysanju/MotionToast) ⭐ 1,535 | 🐛 32 | 🌐 Kotlin | 📅 2024-04-29
 
   * A Beautiful Multipurpose Motion Toast Library in Android using Kotlin heart\_eyes
 
@@ -488,7 +488,7 @@
 
 ### :art: Misc
 
-* [Jetsurvey](https://github.com/android/compose-samples/tree/master/Jetsurvey) ⭐ 23,464 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-17
+* [Jetsurvey](https://github.com/android/compose-samples/tree/master/Jetsurvey) ⭐ 23,463 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-18
 
   * Jetsurvey is a sample survey app, built with Jetpack Compose. The goal of the sample is to showcase text input, validation and state capabilities of Compose.
 
@@ -496,7 +496,7 @@
 
   * The Google I/O 2019 Android App
 
-* [Plaid](https://github.com/nickbutcher/plaid) ⭐ 16,177 | 🐛 102 | 🌐 Kotlin | 📅 2024-01-04
+* [Plaid](https://github.com/nickbutcher/plaid) ⭐ 16,175 | 🐛 102 | 🌐 Kotlin | 📅 2024-01-04
 
   * An Android app which provides design news & inspiration as well as being an example of implementing material design.
 
@@ -504,11 +504,11 @@
 
   * A sample audio app for Android
 
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,361 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-11
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,359 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-11
 
   * Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
 
-* [Duckduckgo](https://github.com/duckduckgo/android) ⭐ 4,827 | 🐛 172 | 🌐 Kotlin | 📅 2026-09-17
+* [Duckduckgo](https://github.com/duckduckgo/android) ⭐ 4,827 | 🐛 174 | 🌐 Kotlin | 📅 2026-09-18
 
   * DuckDuckGo Android App
 
@@ -516,11 +516,11 @@
 
   * LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery, and we also have plans to add more useful features.
 
-* [Android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) ⭐ 3,024 | 🐛 44 | 🌐 Kotlin | 📅 2026-09-17
+* [Android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) ⭐ 3,024 | 🐛 43 | 🌐 Kotlin | 📅 2026-09-18
 
   * The official Wikipedia app for Android!
 
-* [Ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) ⭐ 1,674 | 🐛 4 | 🌐 Kotlin | 📅 2026-01-28
+* [Ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app) ⭐ 1,675 | 🐛 4 | 🌐 Kotlin | 📅 2026-01-28
 
   * Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks
 
@@ -540,7 +540,7 @@
 
   * Native version of Open Food Facts on Android - Coders & Decoders welcome
 
-* [Compose-pokedex](https://github.com/zsoltk/compose-pokedex) ⭐ 800 | 🐛 2 | 🌐 Kotlin | 📅 2022-05-10
+* [Compose-pokedex](https://github.com/zsoltk/compose-pokedex) ⭐ 798 | 🐛 2 | 🌐 Kotlin | 📅 2022-05-10
 
   * Pokedex on Jetpack Compose
 
@@ -570,11 +570,11 @@
 
 ### :newspaper: News
 
-* [JetNews](https://github.com/android/compose-samples/tree/master/JetNews) ⭐ 23,464 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-17
+* [JetNews](https://github.com/android/compose-samples/tree/master/JetNews) ⭐ 23,463 | 🐛 9 | 🌐 Kotlin | 📅 2026-09-18
 
   * Jetnews is a sample news reading app, built with Jetpack Compose. The goal of the sample is to showcase the current UI capabilities of Compose.
 
-* [Materialistic](https://github.com/hidroh/materialistic) ⭐ 2,332 | 🐛 432 | 🌐 Java | 📅 2024-05-08
+* [Materialistic](https://github.com/hidroh/materialistic) ⭐ 2,331 | 🐛 432 | 🌐 Java | 📅 2024-05-08
 
   * A material-design Hacker News Android reader
 
@@ -582,7 +582,7 @@
 
   * Flym News Reader is a light Android feed reader (RSS/Atom)
 
-* [Nextcloud News Reader](https://github.com/nextcloud/news-android) ⭐ 765 | 🐛 118 | 🌐 Java | 📅 2026-09-15
+* [Nextcloud News Reader](https://github.com/nextcloud/news-android) ⭐ 766 | 🐛 118 | 🌐 Java | 📅 2026-09-15
 
   * Android client for the Nextcloud news/feed reader app.
 
@@ -612,19 +612,19 @@
 
 ### :rocket: Productivity
 
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,415 | 🐛 649 | 🌐 TypeScript | 📅 2026-09-17
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,430 | 🐛 653 | 🌐 TypeScript | 📅 2026-09-18
 
   * Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
-* [uhabits](https://github.com/iSoron/uhabits) ⭐ 10,254 | 🐛 52 | 🌐 Kotlin | 📅 2026-07-21
+* [uhabits](https://github.com/iSoron/uhabits) ⭐ 10,257 | 🐛 52 | 🌐 Kotlin | 📅 2026-07-21
 
   * It is an mobile app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time. It is completely ad-free and open source.
 
-* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,391 | 🐛 640 | 🌐 Kotlin | 📅 2026-09-13
+* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,392 | 🐛 640 | 🌐 Kotlin | 📅 2026-09-13
 
   * Material design file manager for Android
 
-* [Owncloud - Android](https://github.com/owncloud/android) ⭐ 4,168 | 🐛 208 | 🌐 Kotlin | 📅 2026-09-16
+* [Owncloud - Android](https://github.com/owncloud/android) ⭐ 4,168 | 🐛 209 | 🌐 Kotlin | 📅 2026-09-18
 
   * The ownCloud Android App
 
@@ -640,11 +640,11 @@
 
   * Material To-Do App
 
-* [AnExplorer](https://github.com/1hakr/AnExplorer) ⭐ 2,027 | 🐛 36 | 🌐 Java | 📅 2026-06-02
+* [AnExplorer](https://github.com/1hakr/AnExplorer) ⭐ 2,028 | 🐛 36 | 🌐 Java | 📅 2026-06-02
 
   * Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a fully designed with Material guidelines by Google.
 
-* [MLManager](https://github.com/javiersantos/MLManager) ⭐ 1,262 | 🐛 6 | 🌐 Java | 📅 2020-09-30
+* [MLManager](https://github.com/javiersantos/MLManager) ⭐ 1,264 | 🐛 6 | 🌐 Java | 📅 2020-09-30
 
   * A modern, easy and customizable app manager for Android with Material Design
 
@@ -703,7 +703,7 @@
 
   * A simple sound recording app implementing Material Design
 
-* [KDEConnect](https://github.com/KDE/kdeconnect-android) ⭐ 1,452 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-16
+* [KDEConnect](https://github.com/KDE/kdeconnect-android) ⭐ 1,451 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-18
 
   * KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
 
@@ -715,7 +715,7 @@
 
   * Wally is a fast and efficient wallpaper application for Android
 
-* [Red-moon](https://github.com/LibreShift/red-moon) ⭐ 735 | 🐛 64 | 🌐 Kotlin | 📅 2026-05-18
+* [Red-moon](https://github.com/LibreShift/red-moon) ⭐ 736 | 🐛 64 | 🌐 Kotlin | 📅 2026-05-18
 
   * Android screen filter app for night time phone use.
 
@@ -751,7 +751,7 @@
 
 ### :gear: Utilities
 
-* [Bitwarden](https://github.com/bitwarden/android) ⭐ 9,370 | 🐛 190 | 🌐 Kotlin | 📅 2026-09-17
+* [Bitwarden](https://github.com/bitwarden/android) ⭐ 9,375 | 🐛 193 | 🌐 Kotlin | 📅 2026-09-18
 
   * Password management solution for individuals, teams, and business organizations written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 
@@ -759,7 +759,7 @@
 
   * A simple calendar with events, customizable widgets and no ads.
 
-* [Authpass](https://github.com/authpass/authpass) ⭐ 2,789 | 🐛 167 | 🌐 Dart | 📅 2026-09-15
+* [Authpass](https://github.com/authpass/authpass) ⭐ 2,791 | 🐛 167 | 🌐 Dart | 📅 2026-09-15
 
   * AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 
@@ -775,7 +775,7 @@
 
   * Stitch your photos together vertically or horizontally easily!
 
-* [KeyPass](https://github.com/yogeshpaliyal/KeyPass) ⭐ 786 | 🐛 31 | 🌐 Kotlin | 📅 2026-09-12
+* [KeyPass](https://github.com/yogeshpaliyal/KeyPass) ⭐ 785 | 🐛 31 | 🌐 Kotlin | 📅 2026-09-12
 
   * Offline Password manager for android, build in compose and material you, support backup encrypted database, etc.
 
@@ -854,4 +854,4 @@ See [CONTRIBUTING.md](https://github.com/binaryshrey/Awesome-Android-Open-Source
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
