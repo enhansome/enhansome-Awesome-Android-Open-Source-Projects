@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Kodi TV",
-              "description": null,
+              "description": "xbmc/xbmc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -17,8 +17,8 @@
                 "id": 1217614,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T22:28:40Z",
-                "open_issues": 461,
+                "last_commit": "2026-10-03T04:15:27Z",
+                "open_issues": 460,
                 "owner": "xbmc",
                 "repo": "xbmc",
                 "stars": 21279,
@@ -47,7 +47,7 @@
             {
               "node_type": "item",
               "title": "SmartYouTubeTV",
-              "description": null,
+              "description": "yuliskov/SmartTubeLegacy",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -60,7 +60,7 @@
                 "open_issues": 447,
                 "owner": "yuliskov",
                 "repo": "SmartTubeLegacy",
-                "stars": 4635,
+                "stars": 4636,
                 "topics": [
                   "android",
                   "android-tv",
@@ -75,7 +75,7 @@
             {
               "node_type": "item",
               "title": "Tv-samples",
-              "description": null,
+              "description": "android/tv-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -102,7 +102,7 @@
             {
               "node_type": "item",
               "title": "Vineyard",
-              "description": null,
+              "description": "hitherejoe/Vineyard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -123,7 +123,7 @@
             {
               "node_type": "item",
               "title": "AndroidTVMovieParadise",
-              "description": null,
+              "description": "halilozel1903/AndroidTVMovieParadise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,7 +172,7 @@
             {
               "node_type": "item",
               "title": "Wear-os-samples",
-              "description": null,
+              "description": "android/wear-os-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -196,7 +196,7 @@
             {
               "node_type": "item",
               "title": "FORMWatchFace",
-              "description": null,
+              "description": "romannurik/FORMWatchFace",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -217,7 +217,7 @@
             {
               "node_type": "item",
               "title": "Twelveish",
-              "description": null,
+              "description": "LayoutXML/Twelveish",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -259,7 +259,7 @@
             {
               "node_type": "item",
               "title": "Wear-notify-for-reddit",
-              "description": null,
+              "description": "emmaguy/wear-notify-for-reddit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -280,7 +280,7 @@
             {
               "node_type": "item",
               "title": "Smartalarm",
-              "description": null,
+              "description": "fridgecow/smartalarm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -312,7 +312,7 @@
             {
               "node_type": "item",
               "title": "Android-mvp-architecture",
-              "description": null,
+              "description": "janishar/android-mvp-architecture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +347,7 @@
             {
               "node_type": "item",
               "title": "Archi",
-              "description": null,
+              "description": "ivacf/archi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,7 +368,7 @@
             {
               "node_type": "item",
               "title": "Android-mvvm-architecture",
-              "description": null,
+              "description": "janishar/android-mvvm-architecture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -405,7 +405,7 @@
             {
               "node_type": "item",
               "title": "Foodium",
-              "description": null,
+              "description": "PatilShreyas/Foodium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -447,7 +447,7 @@
             {
               "node_type": "item",
               "title": "NotyKT",
-              "description": null,
+              "description": "PatilShreyas/NotyKT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,7 +488,7 @@
             {
               "node_type": "item",
               "title": "Clean-Notes",
-              "description": null,
+              "description": "mitchtabian/Clean-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -523,7 +523,7 @@
             {
               "node_type": "item",
               "title": "Baking-App-Kotlin",
-              "description": null,
+              "description": "Ezike/Baking-App-Kotlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -563,7 +563,7 @@
             {
               "node_type": "item",
               "title": "RestApiMVVM",
-              "description": null,
+              "description": "mitchtabian/RestApiMVVM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -594,7 +594,7 @@
             {
               "node_type": "item",
               "title": "Github Visualizer",
-              "description": null,
+              "description": "dheerajkotwani/GithubVisualizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -626,7 +626,7 @@
             {
               "node_type": "item",
               "title": "JetJoke",
-              "description": null,
+              "description": "swapnil-musale/JetJoke",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -666,7 +666,7 @@
             {
               "node_type": "item",
               "title": "Clean-MVP",
-              "description": null,
+              "description": "carlosmacmar/clean-MVP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -703,7 +703,7 @@
             {
               "node_type": "item",
               "title": "Telegram",
-              "description": null,
+              "description": "DrKLO/Telegram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -716,7 +716,7 @@
                 "open_issues": 609,
                 "owner": "DrKLO",
                 "repo": "Telegram",
-                "stars": 29993,
+                "stars": 29995,
                 "topics": [
                   "telegram"
                 ]
@@ -726,7 +726,7 @@
             {
               "node_type": "item",
               "title": "Signal-Android",
-              "description": null,
+              "description": "signalapp/Signal-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -747,7 +747,7 @@
             {
               "node_type": "item",
               "title": "Jetchat",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -772,7 +772,7 @@
             {
               "node_type": "item",
               "title": "K-9",
-              "description": null,
+              "description": "thunderbird/thunderbird-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -798,7 +798,7 @@
             {
               "node_type": "item",
               "title": "Tutanota",
-              "description": null,
+              "description": "tutao/tutanota",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "FairEmail",
-              "description": null,
+              "description": "M66B/FairEmail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -854,7 +854,7 @@
             {
               "node_type": "item",
               "title": "Qksms",
-              "description": null,
+              "description": "moezbhatti/qksms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -886,7 +886,7 @@
             {
               "node_type": "item",
               "title": "Kdeconnect-android",
-              "description": null,
+              "description": "KDE/kdeconnect-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -907,7 +907,7 @@
             {
               "node_type": "item",
               "title": "Proton Mail for Android",
-              "description": null,
+              "description": "ProtonMail/android-mail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "Jetpack-Compose-WhatsApp-Clone",
-              "description": null,
+              "description": "MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -958,7 +958,7 @@
             {
               "node_type": "item",
               "title": "forem-Dev",
-              "description": null,
+              "description": "forem/DEV-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -979,7 +979,7 @@
             {
               "node_type": "item",
               "title": "Tindroid",
-              "description": null,
+              "description": "tinode/tindroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +1018,7 @@
             {
               "node_type": "item",
               "title": "Irccloud-android",
-              "description": null,
+              "description": "irccloud/android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1045,7 +1045,7 @@
             {
               "node_type": "item",
               "title": "Wire-android",
-              "description": null,
+              "description": "wireapp/wire-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "Replify-Messenger",
-              "description": null,
+              "description": "vidit135g/Replify-Messenger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1108,7 +1108,7 @@
             {
               "node_type": "item",
               "title": "IReader",
-              "description": null,
+              "description": "IReaderorg/IReader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "Bookdash-android-app",
-              "description": null,
+              "description": "bookdash/bookdash-android-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1170,7 +1170,7 @@
             {
               "node_type": "item",
               "title": "ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
-              "description": null,
+              "description": "hoc081098/ComicReaderApp_MVI_Coroutine_RxKotlin_Jetpack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1212,7 +1212,7 @@
             {
               "node_type": "item",
               "title": "Hummingbird-for-Android",
-              "description": null,
+              "description": "xiprox/Hummingbird-for-Android",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1233,7 +1233,7 @@
             {
               "node_type": "item",
               "title": "AbsolutReader",
-              "description": null,
+              "description": "xvalme/AbsolutReader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1269,7 +1269,7 @@
             {
               "node_type": "item",
               "title": "NewPipe",
-              "description": null,
+              "description": "TeamNewPipe/NewPipe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1282,7 +1282,7 @@
                 "open_issues": 1473,
                 "owner": "TeamNewPipe",
                 "repo": "NewPipe",
-                "stars": 39847,
+                "stars": 39845,
                 "topics": [
                   "4k",
                   "android",
@@ -1302,7 +1302,7 @@
             {
               "node_type": "item",
               "title": "Jetcaster",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1327,7 +1327,7 @@
             {
               "node_type": "item",
               "title": "AntennaPod",
-              "description": null,
+              "description": "AntennaPod/AntennaPod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1340,7 +1340,7 @@
                 "open_issues": 378,
                 "owner": "AntennaPod",
                 "repo": "AntennaPod",
-                "stars": 8199,
+                "stars": 8198,
                 "topics": [
                   "android",
                   "apps",
@@ -1353,7 +1353,7 @@
             {
               "node_type": "item",
               "title": "Timber",
-              "description": null,
+              "description": "naman14/Timber",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1378,7 +1378,7 @@
             {
               "node_type": "item",
               "title": "Phonograph",
-              "description": null,
+              "description": "karimknaebel/Phonograph",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1404,7 +1404,7 @@
             {
               "node_type": "item",
               "title": "MovieGuide",
-              "description": null,
+              "description": "esoxjem/MovieGuide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1433,7 +1433,7 @@
             {
               "node_type": "item",
               "title": "Shuttle",
-              "description": null,
+              "description": "timusus/Shuttle",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1459,7 +1459,7 @@
             {
               "node_type": "item",
               "title": "MovieHunt",
-              "description": null,
+              "description": "enginebai/MovieHunt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1495,7 +1495,7 @@
             {
               "node_type": "item",
               "title": "SoundSpice-mobile",
-              "description": null,
+              "description": "farshed/SoundSpice-mobile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1523,7 +1523,7 @@
             {
               "node_type": "item",
               "title": "TvFlix",
-              "description": null,
+              "description": "reactivedroid/TvFlix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1565,7 +1565,7 @@
             {
               "node_type": "item",
               "title": "MovieMade",
-              "description": null,
+              "description": "michaelbel/movies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1593,7 +1593,7 @@
             {
               "node_type": "item",
               "title": "Topcorn",
-              "description": null,
+              "description": "theapache64/topcorn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1634,7 +1634,7 @@
             {
               "node_type": "item",
               "title": "Bitcoin-wallet",
-              "description": null,
+              "description": "bitcoin-wallet/bitcoin-wallet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1665,7 +1665,7 @@
             {
               "node_type": "item",
               "title": "CoCoin",
-              "description": null,
+              "description": "Nightonke/CoCoin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1686,7 +1686,7 @@
             {
               "node_type": "item",
               "title": "Gnucash-android",
-              "description": null,
+              "description": "codinguser/gnucash-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1711,7 +1711,7 @@
             {
               "node_type": "item",
               "title": "Financius",
-              "description": null,
+              "description": "mvarnagiris/financius",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1732,7 +1732,7 @@
             {
               "node_type": "item",
               "title": "bither-android",
-              "description": null,
+              "description": "bither/bither-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1753,7 +1753,7 @@
             {
               "node_type": "item",
               "title": "Expenses",
-              "description": null,
+              "description": "nominalista/expenses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1778,7 +1778,7 @@
             {
               "node_type": "item",
               "title": "Finance-Manager",
-              "description": null,
+              "description": "josharsh/Finance-Manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1808,7 +1808,7 @@
             {
               "node_type": "item",
               "title": "Kripto",
-              "description": null,
+              "description": "sauravrao637/Kripto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1836,7 +1836,7 @@
             {
               "node_type": "item",
               "title": "CurrencyExchange",
-              "description": null,
+              "description": "marwa-eltayeb/CurrencyExchange",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1875,7 +1875,7 @@
             {
               "node_type": "item",
               "title": "Pixel-dungeon",
-              "description": null,
+              "description": "watabou/pixel-dungeon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1896,7 +1896,7 @@
             {
               "node_type": "item",
               "title": "Santa-tracker-android",
-              "description": null,
+              "description": "google/santa-tracker-android",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1923,7 +1923,7 @@
             {
               "node_type": "item",
               "title": "Freeciv",
-              "description": null,
+              "description": "freeciv/freeciv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1932,7 +1932,7 @@
                 "id": 88430427,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T22:38:41Z",
+                "last_commit": "2026-10-03T02:59:26Z",
                 "open_issues": 7,
                 "owner": "freeciv",
                 "repo": "freeciv",
@@ -1946,7 +1946,7 @@
             {
               "node_type": "item",
               "title": "2048-android",
-              "description": null,
+              "description": "uberspot/2048-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1967,7 +1967,7 @@
             {
               "node_type": "item",
               "title": "CuboidalDrift",
-              "description": null,
+              "description": "virejdasani/CuboidalDrift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2007,7 +2007,7 @@
             {
               "node_type": "item",
               "title": "QuizApp",
-              "description": null,
+              "description": "pratyaksh1610/Quiz_App",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2045,7 +2045,7 @@
             {
               "node_type": "item",
               "title": "Pedometer",
-              "description": null,
+              "description": "j4velin/Pedometer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2066,7 +2066,7 @@
             {
               "node_type": "item",
               "title": "Runnerup",
-              "description": null,
+              "description": "jonasoreland/runnerup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2087,7 +2087,7 @@
             {
               "node_type": "item",
               "title": "Android-heart-rate-monitor",
-              "description": null,
+              "description": "phishman3579/android-heart-rate-monitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2112,7 +2112,7 @@
             {
               "node_type": "item",
               "title": "Petals",
-              "description": null,
+              "description": "LeoColman/Petals",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2143,7 +2143,7 @@
             {
               "node_type": "item",
               "title": "Water-Intake-Tracker",
-              "description": null,
+              "description": "JacobKerames/water-intake-tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2171,7 +2171,7 @@
             {
               "node_type": "item",
               "title": "7minWorkout",
-              "description": null,
+              "description": "sharshv2012/7minWorkout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2192,7 +2192,7 @@
             {
               "node_type": "item",
               "title": "FitLite",
-              "description": null,
+              "description": "jay-sharmaa/FitLite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2220,7 +2220,7 @@
             {
               "node_type": "item",
               "title": "RxJava",
-              "description": null,
+              "description": "ReactiveX/RxJava",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2246,7 +2246,7 @@
             {
               "node_type": "item",
               "title": "Okhttp",
-              "description": null,
+              "description": "lysine-dev/okhttp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2255,8 +2255,8 @@
                 "id": 5152285,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T04:22:22Z",
-                "open_issues": 154,
+                "last_commit": "2026-10-03T04:22:05Z",
+                "open_issues": 152,
                 "owner": "lysine-dev",
                 "repo": "okhttp",
                 "stars": 47081,
@@ -2272,7 +2272,7 @@
             {
               "node_type": "item",
               "title": "Retrofit",
-              "description": null,
+              "description": "lysine-dev/retrofit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2296,7 +2296,7 @@
             {
               "node_type": "item",
               "title": "MPAndroidChart",
-              "description": null,
+              "description": "PhilJay/MPAndroidChart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2309,7 +2309,7 @@
                 "open_issues": 1,
                 "owner": "PhilJay",
                 "repo": "MPAndroidChart",
-                "stars": 38184,
+                "stars": 38183,
                 "topics": [
                   "android",
                   "chart",
@@ -2323,7 +2323,7 @@
             {
               "node_type": "item",
               "title": "Lottie-android",
-              "description": null,
+              "description": "airbnb/lottie-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2350,7 +2350,7 @@
             {
               "node_type": "item",
               "title": "Glide",
-              "description": null,
+              "description": "bumptech/glide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2371,7 +2371,7 @@
             {
               "node_type": "item",
               "title": "Zxing",
-              "description": null,
+              "description": "zxing/zxing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2401,7 +2401,7 @@
             {
               "node_type": "item",
               "title": "Butterknife",
-              "description": null,
+              "description": "JakeWharton/butterknife",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2414,7 +2414,7 @@
                 "open_issues": 118,
                 "owner": "JakeWharton",
                 "repo": "butterknife",
-                "stars": 25334,
+                "stars": 25333,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:41.978Z"
@@ -2422,7 +2422,7 @@
             {
               "node_type": "item",
               "title": "EventBus",
-              "description": null,
+              "description": "greenrobot/EventBus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2435,7 +2435,7 @@
                 "open_issues": 147,
                 "owner": "greenrobot",
                 "repo": "EventBus",
-                "stars": 24700,
+                "stars": 24699,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:41.978Z"
@@ -2443,7 +2443,7 @@
             {
               "node_type": "item",
               "title": "Gson",
-              "description": null,
+              "description": "google/gson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2464,7 +2464,7 @@
             {
               "node_type": "item",
               "title": "ExoPlayer",
-              "description": null,
+              "description": "google/ExoPlayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2485,7 +2485,7 @@
             {
               "node_type": "item",
               "title": "Picasso",
-              "description": null,
+              "description": "square/picasso",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2498,7 +2498,7 @@
                 "open_issues": 212,
                 "owner": "square",
                 "repo": "picasso",
-                "stars": 18778,
+                "stars": 18777,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:41.978Z"
@@ -2506,7 +2506,7 @@
             {
               "node_type": "item",
               "title": "Dagger",
-              "description": null,
+              "description": "google/dagger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2515,7 +2515,7 @@
                 "id": 7968417,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:31:28Z",
+                "last_commit": "2026-10-02T23:53:53Z",
                 "open_issues": 372,
                 "owner": "google",
                 "repo": "dagger",
@@ -2527,7 +2527,7 @@
             {
               "node_type": "item",
               "title": "Logger",
-              "description": null,
+              "description": "orhanobut/logger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2557,7 +2557,7 @@
             {
               "node_type": "item",
               "title": "Android-Debug-Database",
-              "description": null,
+              "description": "amitshekhariitbhu/Android-Debug-Database",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2570,7 +2570,7 @@
                 "open_issues": 83,
                 "owner": "amitshekhariitbhu",
                 "repo": "Android-Debug-Database",
-                "stars": 8686,
+                "stars": 8687,
                 "topics": [
                   "android",
                   "android-debug-database",
@@ -2592,7 +2592,7 @@
             {
               "node_type": "item",
               "title": "Accompanist",
-              "description": null,
+              "description": "google/accompanist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2616,7 +2616,7 @@
             {
               "node_type": "item",
               "title": "Junit5",
-              "description": null,
+              "description": "junit-team/junit-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2646,7 +2646,7 @@
             {
               "node_type": "item",
               "title": "Toasty",
-              "description": null,
+              "description": "GrenderG/Toasty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2671,7 +2671,7 @@
             {
               "node_type": "item",
               "title": "PreviewSeekBar",
-              "description": null,
+              "description": "rubensousa/PreviewSeekBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2692,7 +2692,7 @@
             {
               "node_type": "item",
               "title": "MotionToast",
-              "description": null,
+              "description": "Spikeysanju/MotionToast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2729,7 +2729,7 @@
             {
               "node_type": "item",
               "title": "AndroidCharts",
-              "description": null,
+              "description": "HackPlan/AndroidCharts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2750,7 +2750,7 @@
             {
               "node_type": "item",
               "title": "ZoomRecylerLayout",
-              "description": null,
+              "description": "Spikeysanju/ZoomRecylerLayout",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2792,7 +2792,7 @@
             {
               "node_type": "item",
               "title": "ReactButton",
-              "description": null,
+              "description": "AmrDeveloper/ReactButton",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2824,7 +2824,7 @@
             {
               "node_type": "item",
               "title": "LottieDIalog",
-              "description": null,
+              "description": "AmrDeveloper/LottieDialog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2855,7 +2855,7 @@
             {
               "node_type": "item",
               "title": "FilterLibrary",
-              "description": null,
+              "description": "hgayan7/FilterLibrary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2889,7 +2889,7 @@
             {
               "node_type": "item",
               "title": "MathView",
-              "description": null,
+              "description": "derysudrajat/math-view",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2925,7 +2925,7 @@
             {
               "node_type": "item",
               "title": "Jetsurvey",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2950,7 +2950,7 @@
             {
               "node_type": "item",
               "title": "Iosched",
-              "description": null,
+              "description": "google/iosched",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2963,7 +2963,7 @@
                 "open_issues": 76,
                 "owner": "google",
                 "repo": "iosched",
-                "stars": 21635,
+                "stars": 21634,
                 "topics": [
                   "android",
                   "architecture",
@@ -2977,7 +2977,7 @@
             {
               "node_type": "item",
               "title": "Plaid",
-              "description": null,
+              "description": "nickbutcher/plaid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2998,7 +2998,7 @@
             {
               "node_type": "item",
               "title": "UAMP",
-              "description": null,
+              "description": "android/uamp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3011,7 +3011,7 @@
                 "open_issues": 99,
                 "owner": "android",
                 "repo": "uamp",
-                "stars": 13169,
+                "stars": 13168,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:23:41.978Z"
@@ -3019,7 +3019,7 @@
             {
               "node_type": "item",
               "title": "Pokedex",
-              "description": null,
+              "description": "skydoves/Pokedex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3032,7 +3032,7 @@
                 "open_issues": 26,
                 "owner": "skydoves",
                 "repo": "Pokedex",
-                "stars": 8362,
+                "stars": 8363,
                 "topics": [
                   "android",
                   "coroutines",
@@ -3052,7 +3052,7 @@
             {
               "node_type": "item",
               "title": "Duckduckgo",
-              "description": null,
+              "description": "duckduckgo/Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3061,7 +3061,7 @@
                 "id": 78869127,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:03:17Z",
+                "last_commit": "2026-10-03T02:54:59Z",
                 "open_issues": 179,
                 "owner": "duckduckgo",
                 "repo": "Android",
@@ -3079,7 +3079,7 @@
             {
               "node_type": "item",
               "title": "LeafPic",
-              "description": null,
+              "description": "UnevenSoftware/LeafPic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3106,7 +3106,7 @@
             {
               "node_type": "item",
               "title": "Android-wikipedia",
-              "description": null,
+              "description": "wikimedia/apps-android-wikipedia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3115,8 +3115,8 @@
                 "id": 13862999,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:39:16Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-03T01:42:21Z",
+                "open_issues": 45,
                 "owner": "wikimedia",
                 "repo": "apps-android-wikipedia",
                 "stars": 3034,
@@ -3140,7 +3140,7 @@
             {
               "node_type": "item",
               "title": "Ridesharing-uber-lyft-app",
-              "description": null,
+              "description": "amitshekhariitbhu/ridesharing-uber-lyft-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3171,7 +3171,7 @@
             {
               "node_type": "item",
               "title": "Kickmaterial",
-              "description": null,
+              "description": "byoutline/kickmaterial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3196,7 +3196,7 @@
             {
               "node_type": "item",
               "title": "AndroidTensorFlowMachineLearning",
-              "description": null,
+              "description": "amitshekhariitbhu/AndroidTensorFlowMachineLearningExample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3229,7 +3229,7 @@
             {
               "node_type": "item",
               "title": "ComposeAcademy-Playground",
-              "description": null,
+              "description": "hitherejoe/ComposeAcademy-Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3250,7 +3250,7 @@
             {
               "node_type": "item",
               "title": "Openfoodfacts-androidapp",
-              "description": null,
+              "description": "openfoodfacts/openfoodfacts-androidapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3283,7 +3283,7 @@
             {
               "node_type": "item",
               "title": "Compose-pokedex",
-              "description": null,
+              "description": "zsoltk/compose-pokedex",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3308,7 +3308,7 @@
             {
               "node_type": "item",
               "title": "CrashReporter",
-              "description": null,
+              "description": "MindorksOpenSource/CrashReporter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3336,7 +3336,7 @@
             {
               "node_type": "item",
               "title": "MoonShot",
-              "description": null,
+              "description": "haroldadmin/MoonShot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3370,7 +3370,7 @@
             {
               "node_type": "item",
               "title": "Space-app",
-              "description": null,
+              "description": "ValterKasper/space-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3396,7 +3396,7 @@
             {
               "node_type": "item",
               "title": "Android-conferences",
-              "description": null,
+              "description": "jitinsharma/android-conferences",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3421,7 +3421,7 @@
             {
               "node_type": "item",
               "title": "CoronavirusWorldStatus",
-              "description": null,
+              "description": "HamdiBoumaiza/CoronavirusWorldStatus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3457,7 +3457,7 @@
             {
               "node_type": "item",
               "title": "JetNews",
-              "description": null,
+              "description": "android/compose-samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3482,7 +3482,7 @@
             {
               "node_type": "item",
               "title": "Materialistic",
-              "description": null,
+              "description": "hidroh/materialistic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3512,7 +3512,7 @@
             {
               "node_type": "item",
               "title": "Flym",
-              "description": null,
+              "description": "FredJul/Flym",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3533,7 +3533,7 @@
             {
               "node_type": "item",
               "title": "Nextcloud News Reader",
-              "description": null,
+              "description": "nextcloud/news-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3562,7 +3562,7 @@
             {
               "node_type": "item",
               "title": "NYTimes-App",
-              "description": null,
+              "description": "TheCodeMonks/NYTimes-App",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3604,7 +3604,7 @@
             {
               "node_type": "item",
               "title": "Cheddar",
-              "description": null,
+              "description": "adrianblancode/Cheddar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3629,7 +3629,7 @@
             {
               "node_type": "item",
               "title": "Newzz-Compose",
-              "description": null,
+              "description": "Akashkamble/Newzz-Compose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3659,7 +3659,7 @@
             {
               "node_type": "item",
               "title": "NewsFeed",
-              "description": null,
+              "description": "KevinGitonga/NewsFeed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3694,7 +3694,7 @@
             {
               "node_type": "item",
               "title": "NewsFeed-MVI-Dagger",
-              "description": null,
+              "description": "HadySalhab/NewsFeed-MVI-Dagger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3715,7 +3715,7 @@
             {
               "node_type": "item",
               "title": "Awesome NewsApp",
-              "description": null,
+              "description": "Mehranalam/NewsApp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3749,7 +3749,7 @@
             {
               "node_type": "item",
               "title": "Joplin",
-              "description": null,
+              "description": "laurent22/joplin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3758,11 +3758,11 @@
                 "id": 79162682,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T22:51:20Z",
+                "last_commit": "2026-10-03T00:24:42Z",
                 "open_issues": 644,
                 "owner": "laurent22",
                 "repo": "joplin",
-                "stars": 56564,
+                "stars": 56566,
                 "topics": [
                   "android",
                   "dropbox",
@@ -3789,7 +3789,7 @@
             {
               "node_type": "item",
               "title": "uhabits",
-              "description": null,
+              "description": "iSoron/uhabits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3817,7 +3817,7 @@
             {
               "node_type": "item",
               "title": "AmazeFileManager",
-              "description": null,
+              "description": "TeamAmaze/AmazeFileManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3830,7 +3830,7 @@
                 "open_issues": 639,
                 "owner": "TeamAmaze",
                 "repo": "AmazeFileManager",
-                "stars": 6407,
+                "stars": 6408,
                 "topics": [
                   "android",
                   "fdroid",
@@ -3850,7 +3850,7 @@
             {
               "node_type": "item",
               "title": "Owncloud - Android",
-              "description": null,
+              "description": "owncloud/android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3859,7 +3859,7 @@
                 "id": 5550567,
                 "language": "Kotlin",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T12:21:14Z",
+                "last_commit": "2026-10-03T03:17:25Z",
                 "open_issues": 207,
                 "owner": "owncloud",
                 "repo": "android",
@@ -3877,7 +3877,7 @@
             {
               "node_type": "item",
               "title": "Omni-Notes",
-              "description": null,
+              "description": "federicoiosue/Omni-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3912,7 +3912,7 @@
             {
               "node_type": "item",
               "title": "Etar",
-              "description": null,
+              "description": "Etar-Group/Etar-Calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3937,7 +3937,7 @@
             {
               "node_type": "item",
               "title": "Minimal-Todo",
-              "description": null,
+              "description": "avjinder/Minimal-Todo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3964,7 +3964,7 @@
             {
               "node_type": "item",
               "title": "AnExplorer",
-              "description": null,
+              "description": "1hakr/AnExplorer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4005,7 +4005,7 @@
             {
               "node_type": "item",
               "title": "MLManager",
-              "description": null,
+              "description": "javiersantos/MLManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4032,7 +4032,7 @@
             {
               "node_type": "item",
               "title": "Clean-Notes",
-              "description": null,
+              "description": "mitchtabian/Clean-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4067,7 +4067,7 @@
             {
               "node_type": "item",
               "title": "Scarlet-Notes",
-              "description": null,
+              "description": "BijoySingh/Scarlet-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4091,7 +4091,7 @@
             {
               "node_type": "item",
               "title": "Linkhub",
-              "description": null,
+              "description": "AmrDeveloper/LinkHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4123,7 +4123,7 @@
             {
               "node_type": "item",
               "title": "JetpackComposeCalculator",
-              "description": null,
+              "description": "ahmedrizwan/JetpackComposeCalculator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4144,7 +4144,7 @@
             {
               "node_type": "item",
               "title": "HabitBuilder",
-              "description": null,
+              "description": "ofalvai/HabitBuilder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4171,7 +4171,7 @@
             {
               "node_type": "item",
               "title": "LeetDroid",
-              "description": null,
+              "description": "cdhiraj40/LeetDroid",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4197,7 +4197,7 @@
             {
               "node_type": "item",
               "title": "Compose-ShoppingList",
-              "description": null,
+              "description": "QArtur99/Compose-ShoppingList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4228,7 +4228,7 @@
             {
               "node_type": "item",
               "title": "Studify",
-              "description": null,
+              "description": "cmcodes1/Studify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4259,7 +4259,7 @@
             {
               "node_type": "item",
               "title": "StackOverflow - Community Version",
-              "description": null,
+              "description": "mayorjay/StackOverflow-Community-Version",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4293,7 +4293,7 @@
             {
               "node_type": "item",
               "title": "Work Tracker",
-              "description": null,
+              "description": "parmstrong842/WorkTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4314,7 +4314,7 @@
             {
               "node_type": "item",
               "title": "OSSAVE",
-              "description": null,
+              "description": "mukuldeep/OSSAVE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4335,7 +4335,7 @@
             {
               "node_type": "item",
               "title": "Notes-Central",
-              "description": null,
+              "description": "vidit135g/Notes-Central",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4372,7 +4372,7 @@
             {
               "node_type": "item",
               "title": "SoundRecorder",
-              "description": null,
+              "description": "dkim0419/SoundRecorder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4393,7 +4393,7 @@
             {
               "node_type": "item",
               "title": "KDEConnect",
-              "description": null,
+              "description": "KDE/kdeconnect-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4414,7 +4414,7 @@
             {
               "node_type": "item",
               "title": "Turbo-editor",
-              "description": null,
+              "description": "vmihalachi/turbo-editor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4443,7 +4443,7 @@
             {
               "node_type": "item",
               "title": "Wally",
-              "description": null,
+              "description": "musenkishi/wally",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4464,7 +4464,7 @@
             {
               "node_type": "item",
               "title": "Red-moon",
-              "description": null,
+              "description": "LibreShift/red-moon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4496,7 +4496,7 @@
             {
               "node_type": "item",
               "title": "Google Science Journal",
-              "description": null,
+              "description": "googlearchive/science-journal",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4517,7 +4517,7 @@
             {
               "node_type": "item",
               "title": "Hash Checker",
-              "description": null,
+              "description": "hash-checker/hash-checker",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4563,7 +4563,7 @@
             {
               "node_type": "item",
               "title": "Travel-Mate",
-              "description": null,
+              "description": "project-travel-mate/Travel-Mate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4594,7 +4594,7 @@
             {
               "node_type": "item",
               "title": "Transportr",
-              "description": null,
+              "description": "grote/Transportr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4619,7 +4619,7 @@
             {
               "node_type": "item",
               "title": "Cyclestreets",
-              "description": null,
+              "description": "cyclestreets/android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4640,7 +4640,7 @@
             {
               "node_type": "item",
               "title": "HolidayInfo",
-              "description": null,
+              "description": "mayorjay/HolidayInfo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4684,7 +4684,7 @@
             {
               "node_type": "item",
               "title": "Bitwarden",
-              "description": null,
+              "description": "bitwarden/android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4711,7 +4711,7 @@
             {
               "node_type": "item",
               "title": "Simple-Calendar",
-              "description": null,
+              "description": "SimpleMobileTools/Simple-Calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4739,7 +4739,7 @@
             {
               "node_type": "item",
               "title": "Authpass",
-              "description": null,
+              "description": "authpass/authpass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4781,7 +4781,7 @@
             {
               "node_type": "item",
               "title": "Images-to-PDF",
-              "description": null,
+              "description": "Swati4star/Images-to-PDF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4812,7 +4812,7 @@
             {
               "node_type": "item",
               "title": "AnotherMonitor",
-              "description": null,
+              "description": "AntonioRedondo/AnotherMonitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4838,7 +4838,7 @@
             {
               "node_type": "item",
               "title": "Photo-affix",
-              "description": null,
+              "description": "afollestad/photo-affix",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4866,7 +4866,7 @@
             {
               "node_type": "item",
               "title": "KeyPass",
-              "description": null,
+              "description": "yogeshpaliyal/KeyPass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4901,7 +4901,7 @@
             {
               "node_type": "item",
               "title": "Pdfview-Android",
-              "description": null,
+              "description": "Dmitry-Borodin/pdfview-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4930,7 +4930,7 @@
             {
               "node_type": "item",
               "title": "Talalarmo",
-              "description": null,
+              "description": "trikita/talalarmo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4951,7 +4951,7 @@
             {
               "node_type": "item",
               "title": "Memento-Calendar",
-              "description": null,
+              "description": "alexstyl/Memento-Calendar",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4982,7 +4982,7 @@
             {
               "node_type": "item",
               "title": "Earthview-android",
-              "description": null,
+              "description": "PDDStudio/earthview-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5003,7 +5003,7 @@
             {
               "node_type": "item",
               "title": "WiFiKeyShare",
-              "description": null,
+              "description": "bparmentier/WiFiKeyShare",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5029,7 +5029,7 @@
             {
               "node_type": "item",
               "title": "Moticons",
-              "description": null,
+              "description": "javiersantos/Moticons",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5050,7 +5050,7 @@
             {
               "node_type": "item",
               "title": "Varis-Android",
-              "description": null,
+              "description": "dkhmelenko/Varis-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5075,7 +5075,7 @@
             {
               "node_type": "item",
               "title": "ImageSearching",
-              "description": null,
+              "description": "MinhyeokOh/android_app_ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5103,7 +5103,7 @@
             {
               "node_type": "item",
               "title": "Good-weather",
-              "description": null,
+              "description": "qqq3/good-weather",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5130,7 +5130,7 @@
             {
               "node_type": "item",
               "title": "CoolWeather",
-              "description": null,
+              "description": "akoufa/CoolWeather",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5171,7 +5171,7 @@
             {
               "node_type": "item",
               "title": "WeatherForecast",
-              "description": null,
+              "description": "marwa-eltayeb/WeatherForecast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5212,7 +5212,7 @@
             {
               "node_type": "item",
               "title": "WeatherZone",
-              "description": null,
+              "description": "SoumikBhatt/WeatherZone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5248,7 +5248,7 @@
             {
               "node_type": "item",
               "title": "Weathercast",
-              "description": null,
+              "description": "vidit135g/Weathercast",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5279,7 +5279,7 @@
             {
               "node_type": "item",
               "title": "Sunshine",
-              "description": null,
+              "description": "pragyaSingh13/Sunshine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5307,7 +5307,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:51:51.922Z",
+    "last_updated": "2026-10-03T04:23:57.018Z",
     "original_repository_info": {
       "archived": false,
       "description": ":eyeglasses: A curated list of awesome android projects by open-source contributors. ",
