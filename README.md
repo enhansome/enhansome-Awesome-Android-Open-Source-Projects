@@ -56,7 +56,7 @@
 
 ### :tv: Android TV
 
-* [Kodi TV](https://github.com/xbmc/xbmc) ⭐ 21,409 | 🐛 550 | 🌐 C++ | 📅 2026-10-31
+* [Kodi TV](https://github.com/xbmc/xbmc) ⭐ 21,412 | 🐛 562 | 🌐 C++ | 📅 2026-11-01
 
   * Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 
@@ -150,27 +150,27 @@
 
 ### :iphone: Communication
 
-* [Telegram](https://github.com/DrKLO/Telegram) ⭐ 30,196 | 🐛 653 | 🌐 Java | 📅 2026-10-25
+* [Telegram](https://github.com/DrKLO/Telegram) ⭐ 30,204 | 🐛 655 | 🌐 Java | 📅 2026-10-25
 
   * Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free. This repo contains the official source code for Telegram App for Android.
 
-* [Signal-Android](https://github.com/WhisperSystems/Signal-Android) ⭐ 29,563 | 🐛 505 | 🌐 Kotlin | 📅 2026-10-30
+* [Signal-Android](https://github.com/WhisperSystems/Signal-Android) ⭐ 29,568 | 🐛 505 | 🌐 Kotlin | 📅 2026-10-30
 
   * Signal is a messaging app for simple private communication with friends.
 
-* [Jetchat](https://github.com/android/compose-samples/tree/master/Jetchat) ⭐ 23,549 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
+* [Jetchat](https://github.com/android/compose-samples/tree/master/Jetchat) ⭐ 23,551 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
 
   * Jetchat is a sample chat app built with Jetpack Compose.
 
-* [K-9](https://github.com/k9mail/k-9) ⭐ 14,168 | 🐛 1,109 | 🌐 Kotlin | 📅 2026-10-30
+* [K-9](https://github.com/k9mail/k-9) ⭐ 14,170 | 🐛 1,109 | 🌐 Kotlin | 📅 2026-10-30
 
   * K-9 Mail is an open-source email client for Android.
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,083 | 🐛 955 | 🌐 TypeScript | 📅 2026-10-30
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,093 | 🐛 955 | 🌐 TypeScript | 📅 2026-10-30
 
   * Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
 
-* [FairEmail](https://github.com/M66B/FairEmail/) ⭐ 4,743 | 🐛 3 | 🌐 Java | 📅 2026-10-31
+* [FairEmail](https://github.com/M66B/FairEmail/) ⭐ 4,745 | 🐛 3 | 🌐 Java | 📅 2026-11-01
 
   * An advanced email client for Android
 
@@ -182,7 +182,7 @@
 
   * Native Android port of the KDE Connect Qt app
 
-* [Proton Mail for Android](https://github.com/ProtonMail/android-mail) ⭐ 1,057 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-29
+* [Proton Mail for Android](https://github.com/ProtonMail/android-mail) ⭐ 1,060 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-29
 
   * ProtonMail Android app
 
@@ -202,7 +202,7 @@
 
   * The official Android app for IRCCloud.com
 
-* [Wire-android](https://github.com/wireapp/wire-android) ⭐ 257 | 🐛 29 | 🌐 Kotlin | 📅 2026-10-31
+* [Wire-android](https://github.com/wireapp/wire-android) ⭐ 257 | 🐛 30 | 🌐 Kotlin | 📅 2026-11-01
 
   * The project in this repository contains the Wire for Android client project.
 
@@ -238,19 +238,19 @@
 
 ### :movie\_camera: Entertainment
 
-* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 40,384 | 🐛 1,473 | 🌐 Java | 📅 2026-10-31
+* [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐ 40,397 | 🐛 1,472 | 🌐 Java | 📅 2026-10-31
 
   * A libre lightweight streaming front-end for Android.
 
-* [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster) ⭐ 23,549 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
+* [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster) ⭐ 23,551 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
 
   * Jetcaster is a sample podcast app, built with Jetpack Compose. The goal of the sample is to showcase dynamic theming and full featured architecture.
 
-* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,257 | 🐛 392 | 🌐 Java | 📅 2026-10-31
+* [AntennaPod](https://github.com/AntennaPod/AntennaPod) ⭐ 8,258 | 🐛 391 | 🌐 Java | 📅 2026-11-01
 
   * This is the official repository of AntennaPod, the easy-to-use, flexible and open-source podcast manager for Android.
 
-* [Timber](https://github.com/naman14/Timber) ⭐ 7,033 | 🐛 210 | 🌐 Java | 📅 2023-04-28
+* [Timber](https://github.com/naman14/Timber) ⭐ 7,034 | 🐛 210 | 🌐 Java | 📅 2023-04-28
 
   * Material Design Music Player
 
@@ -334,11 +334,11 @@
 
   * Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.
 
-* [Freeciv](https://github.com/freeciv/freeciv) ⭐ 1,624 | 🐛 8 | 🌐 C | 📅 2026-10-31
+* [Freeciv](https://github.com/freeciv/freeciv) ⭐ 1,626 | 🐛 8 | 🌐 C | 📅 2026-11-01
 
   * Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
 
-* [2048-android](https://github.com/uberspot/2048-android) ⭐ 1,093 | 🐛 27 | 🌐 Java | 📅 2024-08-11
+* [2048-android](https://github.com/uberspot/2048-android) ⭐ 1,092 | 🐛 27 | 🌐 Java | 📅 2024-08-11
 
   * This is the Android port of the 2048 game made by Gabriele Cirulli.
 
@@ -356,7 +356,7 @@
 
   * Lightweight pedometer app for Android using the hardware step sensor
 
-* [Runnerup](https://github.com/jonasoreland/runnerup) ⭐ 961 | 🐛 224 | 🌐 Java | 📅 2026-10-26
+* [Runnerup](https://github.com/jonasoreland/runnerup) ⭐ 961 | 🐛 221 | 🌐 Java | 📅 2026-11-01
 
   * Track your sport activities with RunnerUp using the GPS in your Android phone.
 
@@ -382,15 +382,15 @@
 
 ### :books: Libraries
 
-* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,156 | 🐛 12 | 🌐 Java | 📅 2026-10-26
+* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,157 | 🐛 12 | 🌐 Java | 📅 2026-10-26
 
   * RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 
-* [Okhttp](https://github.com/square/okhttp/) ⭐ 47,104 | 🐛 164 | 🌐 Kotlin | 📅 2026-10-30
+* [Okhttp](https://github.com/square/okhttp/) ⭐ 47,108 | 🐛 164 | 🌐 Kotlin | 📅 2026-10-30
 
   * Square’s meticulous HTTP client for Java and Kotlin.
 
-* [Retrofit](https://github.com/square/retrofit) ⭐ 43,939 | 🐛 148 | 🌐 Java | 📅 2026-10-31
+* [Retrofit](https://github.com/square/retrofit) ⭐ 43,940 | 🐛 148 | 🌐 Java | 📅 2026-10-31
 
   * A type-safe HTTP client for Android and the JVM
 
@@ -398,7 +398,7 @@
 
   * A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 
-* [Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,759 | 🐛 83 | 🌐 Java | 📅 2026-02-15
+* [Lottie-android](https://github.com/airbnb/lottie-android) ⭐ 35,760 | 🐛 83 | 🌐 Java | 📅 2026-02-15
 
   * Render After Effects animations natively on Android and iOS, Web, and React Native
 
@@ -406,19 +406,19 @@
 
   * An image loading and caching library for Android focused on smooth scrolling
 
-* [Zxing](https://github.com/zxing/zxing) ⭐ 34,182 | 🐛 0 | 🌐 Java | 📅 2026-10-28
+* [Zxing](https://github.com/zxing/zxing) ⭐ 34,181 | 🐛 0 | 🌐 Java | 📅 2026-10-28
 
   * ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 
-* [Butterknife](https://github.com/JakeWharton/butterknife) ⭐ 25,317 | 🐛 118 | 🌐 Java | 📅 2023-09-02
+* [Butterknife](https://github.com/JakeWharton/butterknife) ⭐ 25,316 | 🐛 118 | 🌐 Java | 📅 2023-09-02
 
   * Bind Android views and callbacks to fields and methods.
 
-* [EventBus](https://github.com/greenrobot/EventBus) ⭐ 24,682 | 🐛 148 | 🌐 Java | 📅 2024-02-21
+* [EventBus](https://github.com/greenrobot/EventBus) ⭐ 24,681 | 🐛 148 | 🌐 Java | 📅 2024-02-21
 
   * Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 
-* [Gson](https://github.com/google/gson) ⭐ 24,237 | 🐛 339 | 🌐 Java | 📅 2026-10-24
+* [Gson](https://github.com/google/gson) ⭐ 24,236 | 🐛 340 | 🌐 Java | 📅 2026-11-01
 
   * A Java serialization/deserialization library to convert Java Objects into JSON and back
 
@@ -426,7 +426,7 @@
 
   * ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet. ExoPlayer supports features not currently supported by Android’s MediaPlayer API, including DASH and SmoothStreaming adaptive playbacks.
 
-* [Picasso](https://github.com/square/picasso) ⭐ 18,765 | 🐛 211 | 🌐 Kotlin | 📅 2024-11-06
+* [Picasso](https://github.com/square/picasso) ⭐ 18,764 | 🐛 211 | 🌐 Kotlin | 📅 2024-11-06
 
   * A powerful image downloading and caching library for Android
 
@@ -446,7 +446,7 @@
 
   * Accompanist is a group of libraries that contains some utilities which I've found myself copying around projects which use Jetpack Compose.
 
-* [Junit5](https://github.com/junit-team/junit5/) ⭐ 7,059 | 🐛 115 | 🌐 Java | 📅 2026-10-31
+* [Junit5](https://github.com/junit-team/junit5/) ⭐ 7,059 | 🐛 117 | 🌐 Java | 📅 2026-11-01
 
   * This repository is the home of the next generation of JUnit, JUnit 5.
 
@@ -458,7 +458,7 @@
 
   * A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
 
-* [MotionToast](https://github.com/Spikeysanju/MotionToast) ⭐ 1,537 | 🐛 32 | 🌐 Kotlin | 📅 2024-04-29
+* [MotionToast](https://github.com/Spikeysanju/MotionToast) ⭐ 1,538 | 🐛 32 | 🌐 Kotlin | 📅 2024-04-29
 
   * A Beautiful Multipurpose Motion Toast Library in Android using Kotlin heart\_eyes
 
@@ -488,7 +488,7 @@
 
 ### :art: Misc
 
-* [Jetsurvey](https://github.com/android/compose-samples/tree/master/Jetsurvey) ⭐ 23,549 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
+* [Jetsurvey](https://github.com/android/compose-samples/tree/master/Jetsurvey) ⭐ 23,551 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
 
   * Jetsurvey is a sample survey app, built with Jetpack Compose. The goal of the sample is to showcase text input, validation and state capabilities of Compose.
 
@@ -504,11 +504,11 @@
 
   * A sample audio app for Android
 
-* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,375 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-31
+* [Pokedex](https://github.com/skydoves/Pokedex) ⭐ 8,376 | 🐛 26 | 🌐 Kotlin | 📅 2026-10-31
 
   * Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.
 
-* [Duckduckgo](https://github.com/duckduckgo/android) ⭐ 4,883 | 🐛 201 | 🌐 Kotlin | 📅 2026-10-31
+* [Duckduckgo](https://github.com/duckduckgo/android) ⭐ 4,884 | 🐛 201 | 🌐 Kotlin | 📅 2026-11-01
 
   * DuckDuckGo Android App
 
@@ -532,7 +532,7 @@
 
   * Android TensorFlow MachineLearning Example (Building TensorFlow for Android)
 
-* [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) ⭐ 965 | 🐛 2 | 🌐 Kotlin | 📅 2021-04-08
+* [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) ⭐ 964 | 🐛 2 | 🌐 Kotlin | 📅 2021-04-08
 
   * Playground project for the Jetpack Compose APIs
 
@@ -570,7 +570,7 @@
 
 ### :newspaper: News
 
-* [JetNews](https://github.com/android/compose-samples/tree/master/JetNews) ⭐ 23,549 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
+* [JetNews](https://github.com/android/compose-samples/tree/master/JetNews) ⭐ 23,551 | 🐛 9 | 🌐 Kotlin | 📅 2026-10-28
 
   * Jetnews is a sample news reading app, built with Jetpack Compose. The goal of the sample is to showcase the current UI capabilities of Compose.
 
@@ -582,7 +582,7 @@
 
   * Flym News Reader is a light Android feed reader (RSS/Atom)
 
-* [Nextcloud News Reader](https://github.com/nextcloud/news-android) ⭐ 769 | 🐛 117 | 🌐 Java | 📅 2026-10-27
+* [Nextcloud News Reader](https://github.com/nextcloud/news-android) ⭐ 769 | 🐛 117 | 🌐 Java | 📅 2026-11-01
 
   * Android client for the Nextcloud news/feed reader app.
 
@@ -612,15 +612,15 @@
 
 ### :rocket: Productivity
 
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,964 | 🐛 653 | 🌐 TypeScript | 📅 2026-10-30
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,979 | 🐛 653 | 🌐 TypeScript | 📅 2026-11-01
 
   * Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
-* [uhabits](https://github.com/iSoron/uhabits) ⭐ 10,380 | 🐛 17 | 🌐 Kotlin | 📅 2026-10-22
+* [uhabits](https://github.com/iSoron/uhabits) ⭐ 10,382 | 🐛 17 | 🌐 Kotlin | 📅 2026-10-22
 
   * It is an mobile app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time. It is completely ad-free and open source.
 
-* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,449 | 🐛 665 | 🌐 Kotlin | 📅 2026-10-31
+* [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,451 | 🐛 664 | 🌐 Kotlin | 📅 2026-10-31
 
   * Material design file manager for Android
 
@@ -632,7 +632,7 @@
 
   * Open source note-taking application for Android
 
-* [Etar](https://github.com/Etar-Group/Etar-Calendar/) ⭐ 2,630 | 🐛 405 | 🌐 Java | 📅 2026-10-31
+* [Etar](https://github.com/Etar-Group/Etar-Calendar/) ⭐ 2,630 | 🐛 402 | 🌐 Java | 📅 2026-11-01
 
   * An enhanced fork of the AOSP calendar app
 
@@ -751,7 +751,7 @@
 
 ### :gear: Utilities
 
-* [Bitwarden](https://github.com/bitwarden/android) ⭐ 9,567 | 🐛 195 | 🌐 Kotlin | 📅 2026-10-31
+* [Bitwarden](https://github.com/bitwarden/android) ⭐ 9,573 | 🐛 198 | 🌐 Kotlin | 📅 2026-11-01
 
   * Password management solution for individuals, teams, and business organizations written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
 
@@ -759,7 +759,7 @@
 
   * A simple calendar with events, customizable widgets and no ads.
 
-* [Authpass](https://github.com/authpass/authpass) ⭐ 2,808 | 🐛 171 | 🌐 Dart | 📅 2026-09-15
+* [Authpass](https://github.com/authpass/authpass) ⭐ 2,810 | 🐛 171 | 🌐 Dart | 📅 2026-09-15
 
   * AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 
@@ -775,7 +775,7 @@
 
   * Stitch your photos together vertically or horizontally easily!
 
-* [KeyPass](https://github.com/yogeshpaliyal/KeyPass) ⭐ 788 | 🐛 32 | 🌐 Kotlin | 📅 2026-10-24
+* [KeyPass](https://github.com/yogeshpaliyal/KeyPass) ⭐ 787 | 🐛 32 | 🌐 Kotlin | 📅 2026-11-01
 
   * Offline Password manager for android, build in compose and material you, support backup encrypted database, etc.
 
@@ -854,4 +854,4 @@ See [CONTRIBUTING.md](https://github.com/binaryshrey/Awesome-Android-Open-Source
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
